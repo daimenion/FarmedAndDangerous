@@ -1,0 +1,1024 @@
+﻿Log file open, 09/28/19 14:09:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063655
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Programs/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:259][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:266][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:266][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.28-18.09.09:266][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.28-18.09.09:266][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:266][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.28-18.09.09:266][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:266][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.28-18.09.09:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.28-18.09.09:268][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:268][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.28-18.09.09:268][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.28-18.09.09:268][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.28-18.09.09:268][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.28-18.09.09:270][  0]LogHAL: Display: Platform has ~ 16 GB [17118347264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.28-18.09.09:270][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.28-18.09.09:270][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.28-18.09.09:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.28-18.09.09:271][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.09.28-18.09.09:271][  0]LogInit: Computer: OWNER-PC
+[2019.09.28-18.09.09:271][  0]LogInit: User: Owner
+[2019.09.28-18.09.09:271][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.28-18.09.09:271][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.28-18.09.09:271][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.28-18.09.09:271][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.28-18.09.09:271][  0]LogMemory: Process Physical Memory: 100.76 MB used, 100.76 MB peak
+[2019.09.28-18.09.09:271][  0]LogMemory: Process Virtual Memory: 100.48 MB used, 100.48 MB peak
+[2019.09.28-18.09.09:271][  0]LogMemory: Physical Memory: 6960.36 MB used,  9364.97 MB free, 16325.33 MB total
+[2019.09.28-18.09.09:271][  0]LogMemory: Virtual Memory: 4668.30 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.28-18.09.09:274][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.28-18.09.09:294][  0]LogInit: Using OS detected language (en-US).
+[2019.09.28-18.09.09:294][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.28-18.09.09:295][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.28-18.09.09:453][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.28-18.09.09:490][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.28-18.09.09:490][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.28-18.09.12:111][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.28-18.09.12:180][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.09.28-18.09.12:180][  0]LogD3D11RHI:       8088/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.28-18.09.12:183][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.28-18.09.12:183][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.28-18.09.12:183][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.28-18.09.12:191][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.28-18.09.12:191][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.28-18.09.12:191][  0]LogWindows: EnumDisplayDevices:
+[2019.09.28-18.09.12:191][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.09.28-18.09.12:191][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.09.28-18.09.12:192][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.28-18.09.12:192][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.28-18.09.12:192][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.28-18.09.12:192][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.09.28-18.09.12:192][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2019.09.28-18.09.12:192][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2019.09.28-18.09.12:192][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.09.28-18.09.12:239][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.28-18.09.12:261][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.28-18.09.12:697][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.28-18.09.12:707][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.28-18.09.12:714][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.28-18.09.12:722][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.28-18.09.12:730][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.28-18.09.12:743][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.28-18.09.12:752][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.28-18.09.12:761][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.28-18.09.12:765][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.28-18.09.12:812][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.28-18.09.12:813][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.28-18.09.12:813][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.28-18.09.12:813][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.28-18.09.12:813][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.28-18.09.12:813][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.28-18.09.12:815][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.28-18.09.12:853][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.28-18.09.12:853][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.28-18.09.12:873][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.28-18.09.12:873][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.28-18.09.12:886][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.28-18.09.12:896][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.28-18.09.12:905][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.28-18.09.12:914][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.28-18.09.12:941][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.28-18.09.12:942][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.28-18.09.12:942][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.28-18.09.12:950][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.28-18.09.13:001][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Intermediate/Shaders/WorkingDirectory/6568/).
+[2019.09.28-18.09.13:001][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/52E622F448FAA465C5E3418D3A8FE270/'.
+[2019.09.28-18.09.13:003][  0]LogXGEController: Cleaning working directory: C:/Users/Owner/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.28-18.09.13:003][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.28-18.09.13:004][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.28-18.09.13:004][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.28-18.09.13:731][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Owner/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../C drive/Documents/Github/GameJam2/GameJam2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../C drive/Documents/Github/GameJam2/GameJam2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.28-18.09.13:796][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.28-18.09.13:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.28-18.09.13:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.28-18.09.13:809][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.28-18.09.13:810][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.28-18.09.13:810][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.28-18.09.13:810][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.28-18.09.13:841][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.28-18.09.13:845][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.28-18.09.13:846][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.28-18.09.13:911][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.09.28-18.09.14:239][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.28-18.09.14:398][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.28-18.09.14:398][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.28-18.09.14:398][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.28-18.09.14:398][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.28-18.09.14:398][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.28-18.09.14:409][  0]LogNetVersion: GameJam2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 950447696)
+[2019.09.28-18.09.18:819][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.152367 seconds
+[2019.09.28-18.09.18:825][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.28-18.09.18:825][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.28-18.09.18:825][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.28-18.10.02:514][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.28-18.10.02:548][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.28-18.10.03:304][  0]SourceControl: Source control is disabled
+[2019.09.28-18.10.03:321][  0]SourceControl: Source control is disabled
+[2019.09.28-18.10.03:421][  0]SourceControl: Source control is disabled
+[2019.09.28-18.10.03:449][  0]SourceControl: Source control is disabled
+[2019.09.28-18.10.04:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.28-18.10.05:685][  0]LogOcInput: OculusInput pre-init called
+[2019.09.28-18.10.05:742][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.28-18.10.05:742][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.28-18.10.06:806][  0]LogEngine: Initializing Engine...
+[2019.09.28-18.10.06:862][  0]LogHMD: SteamVR initialized.  Driver: Unknown property error (217882936)  Display: Unknown property error (217882936)
+[2019.09.28-18.10.06:887][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.024 s
+[2019.09.28-18.10.07:136][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.28-18.10.07:550][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.28-18.10.07:877][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.28-18.10.07:952][  0]LogInit: FAudioDevice initialized.
+[2019.09.28-18.10.07:953][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.28-18.10.08:118][  0]LogDerivedDataCache: Saved boot cache 0.17s 73MB C:/Users/Owner/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.28-18.10.08:127][  0]LogInit: Texture streaming: Enabled
+[2019.09.28-18.10.08:327][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.28-18.10.09:089][  0]LogInit: Transaction tracking system initialized
+[2019.09.28-18.10.09:918][  0]BlueprintLog: New page: Editor Load
+[2019.09.28-18.10.13:955][  0]LocalizationService: Localization service is disabled
+[2019.09.28-18.10.17:721][  0]LogFileCache: Scanning file cache for directory 'F:/C drive/Documents/Github/GameJam2/GameJam2/Content/' took 0.01s
+[2019.09.28-18.10.17:721][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.28-18.10.17:721][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.28-18.10.27:286][  0]SourceControl: Source control is disabled
+[2019.09.28-18.10.27:348][  0]Cmd: MAP LOAD FILE="../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.28-18.10.27:416][  0]LightingResults: New page: Lighting Build
+[2019.09.28-18.10.27:872][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.10.28:082][  0]MapCheck: New page: Map Check
+[2019.09.28-18.10.28:083][  0]LightingResults: New page: Lighting Build
+[2019.09.28-18.10.28:666][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: PolyArtTex (AutoDXT, 512X512)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_wood_d (AutoDXT, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_wood_r (AutoDXT, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_tree_r (DXT1, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_tree_n (BC5, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_wood_n (BC5, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogTexture: Display: Building textures: pl_tree_d (AutoDXT, 1024X1024)
+[2019.09.28-18.10.30:637][  0]LogStaticMesh: Building static mesh Backpack03SM...
+[2019.09.28-18.10.30:705][  0]LogStaticMesh: Built static mesh [0.06s] /Game/ModularRPGHeroesPolyart/Meshes/Weapons/Backpack03SM.Backpack03SM
+[2019.09.28-18.10.30:764][  0]LogTexture: Display: Building textures: Pl_Plants_r (AutoDXT, 1024X1024)
+[2019.09.28-18.10.30:764][  0]LogTexture: Display: Building textures: Pl_Plants_d (AutoDXT, 1024X1024)
+[2019.09.28-18.10.30:764][  0]LogTexture: Display: Building textures: Pl_Plants_n (BC5, 1024X1024)
+[2019.09.28-18.10.30:764][  0]LogSkeletalMesh: Building Skeletal Mesh Shoe01SK...
+[2019.09.28-18.10.30:765][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Shoe01SK.Shoe01SK
+[2019.09.28-18.10.30:767][  0]LogSkeletalMesh: Building Skeletal Mesh Hair04SK...
+[2019.09.28-18.10.30:767][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Hair04SK.Hair04SK
+[2019.09.28-18.10.30:768][  0]LogSkeletalMesh: Building Skeletal Mesh Glove01SK...
+[2019.09.28-18.10.30:769][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Glove01SK.Glove01SK
+[2019.09.28-18.10.30:770][  0]LogSkeletalMesh: Building Skeletal Mesh Face02SK...
+[2019.09.28-18.10.30:771][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Face02SK.Face02SK
+[2019.09.28-18.10.30:772][  0]LogSkeletalMesh: Building Skeletal Mesh Cloth02SK...
+[2019.09.28-18.10.30:773][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Cloth02SK.Cloth02SK
+[2019.09.28-18.10.30:778][  0]LogMaterial: Display: Missing cached shader map for material PolyartMat, compiling. 
+[2019.09.28-18.10.30:975][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2019.09.28-18.10.30:975][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2019.09.28-18.10.30:975][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2019.09.28-18.10.30:975][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.09.28-18.10.30:975][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 29
+[2019.09.28-18.10.30:975][  0]LogSkeletalMesh: Building Skeletal Mesh Belt01SK...
+[2019.09.28-18.10.30:976][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Belt01SK.Belt01SK
+[2019.09.28-18.10.31:150][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ModularRPGHeroesPolyart/Animations/NoWeaponStance/Idle_noWeaponAnim.Idle_noWeaponAnim
+[2019.09.28-18.10.31:215][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ModularRPGHeroesPolyart/Animations/NoWeaponStance/Idle_noWeaponAnim.Idle_noWeaponAnim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.28-18.10.32:028][  0]LogMaterial: Display: Missing cached shader map for material M_Wood_Dark_Parent, compiling. 
+[2019.09.28-18.10.32:196][  0]LogMaterial: Display: Missing cached shader map for material M_Tree, compiling. 
+[2019.09.28-18.10.32:307][  0]LogStaticMesh: Building static mesh Pl_Tree_02...
+[2019.09.28-18.10.32:332][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Platformer/Meshes/Pl_Tree_02.Pl_Tree_02
+[2019.09.28-18.10.32:353][  0]LogStaticMesh: Building static mesh Pl_plant_03...
+[2019.09.28-18.10.32:357][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Platformer/Meshes/Pl_plant_03.Pl_plant_03
+[2019.09.28-18.10.32:411][  0]LogMaterial: Display: Missing cached shader map for material M_Plants, compiling. 
+[2019.09.28-18.10.32:857][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.28-18.10.35:029][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.28-18.10.35:514][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.09.28-18.10.35:514][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.28-18.10.35:531][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 16.595ms to complete.
+[2019.09.28-18.10.35:531][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 8.205
+[2019.09.28-18.10.38:584][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 162
+[2019.09.28-18.10.38:584][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2019.09.28-18.10.38:584][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 142
+[2019.09.28-18.10.38:584][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2019.09.28-18.10.38:584][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2019.09.28-18.10.42:463][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 112
+[2019.09.28-18.10.42:463][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2019.09.28-18.10.42:463][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 92
+[2019.09.28-18.10.42:463][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2019.09.28-18.10.42:463][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.10.42:657][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2019.09.28-18.10.42:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.10.42:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.10.42:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.10.42:744][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2019.09.28-18.10.42:744][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2019.09.28-18.10.42:744][  0]LogCollectionManager: Loaded 0 collections in 0.002148 seconds
+[2019.09.28-18.10.43:314][  0]LogFileCache: Scanning file cache for directory 'F:/C drive/Documents/Github/GameJam2/GameJam2/Saved/Collections/' took 0.00s
+[2019.09.28-18.10.43:314][  0]LogFileCache: Scanning file cache for directory 'F:/C drive/Documents/Github/GameJam2/GameJam2/Content/Developers/Owner/Collections/' took 0.00s
+[2019.09.28-18.10.43:314][  0]LogFileCache: Scanning file cache for directory 'F:/C drive/Documents/Github/GameJam2/GameJam2/Content/Collections/' took 0.00s
+[2019.09.28-18.10.43:314][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 42
+[2019.09.28-18.10.43:314][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.28-18.10.43:329][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2863 classes and 680 folders.
+[2019.09.28-18.10.43:476][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 33
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 11
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2019.09.28-18.10.52:308][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.09.28-18.10.52:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.28-18.10.52:360][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.28-18.10.57:050][  0]LogSlate: Took 0.130379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.28-18.10.57:331][  0]LogSlate: Took 0.254622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.28-18.10.57:475][  0]LogSlate: Took 0.041235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.28-18.10.58:897][  0]LogRenderer: Reallocating scene render targets to support 1072x632 Format 10 NumSamples 1 (Frame:1).
+[2019.09.28-18.11.01:214][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.28-18.11.01:214][  0]LogLoad: (Engine Initialization) Total time: 112.67 seconds
+[2019.09.28-18.11.01:214][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.28-18.11.01:684][  0]LogHMD: SteamVR Shutting down.
+[2019.09.28-18.11.01:776][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.28-18.11.02:164][  0]LogSlate: Took 0.072869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.28-18.11.02:386][  1]LogAssetRegistry: Asset discovery search completed in 108.4757 seconds
+[2019.09.28-18.11.02:389][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.09.28-18.11.02:389][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.09.28-18.11.10:382][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.12.35:635][350]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.28-18.12.35:664][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.12.35:675][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-18.12.35:676][350]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 10:12:35 AM)
+[2019.09.28-18.12.35:697][350]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.28-18.12.35:710][350]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.12.35:725][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014044s)
+[2019.09.28-18.12.35:770][350]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.28-18.12.35:770][350]LogPlayLevel: PIE: World Init took: (0.045156s)
+[2019.09.28-18.12.35:770][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.059472s)
+[2019.09.28-18.12.35:792][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.09.28-18.12.35:866][350]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.28-18.12.35:878][350]LogInit: FAudioDevice initialized.
+[2019.09.28-18.12.35:910][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.12.35:911][350]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.28-18.12.35:939][350]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-14.12.35
+[2019.09.28-18.12.36:039][350]LogWorld: Bringing up level for play took: 0.114418
+[2019.09.28-18.12.36:039][350]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.09.28-18.12.36:188][350]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.28-18.12.36:190][350]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.012
+[2019.09.28-18.12.36:191][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.12.36:341][351]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.09.28-18.12.39:730][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.12.39:760][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.12.39:760][533]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.12.39:774][533]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-18.12.39:791][533]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.12.39:809][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-18.12.39:810][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.12.39:942][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.28-18.12.39:959][534]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.09.28-18.12.47:987][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.12.55:060][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.13.07:432][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.13.07:752][624]LogSkeletalMesh: Building Skeletal Mesh DarkKnightSK...
+[2019.09.28-18.13.07:758][624]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ModularRPGHeroesPolyart/Meshes/OneMeshCharacters/DarkKnightSK.DarkKnightSK
+[2019.09.28-18.13.12:365][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.13.17:836][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.13.28:131][984]Cmd: TRANSACTION UNDO
+[2019.09.28-18.13.28:131][984]LogEditorTransaction: Undo Move Actors
+[2019.09.28-18.13.28:144][984]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.28-18.13.28:536][ 29]Cmd: TRANSACTION UNDO
+[2019.09.28-18.13.28:536][ 29]LogEditorTransaction: Undo Move Actors
+[2019.09.28-18.16.27:041][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Patterns_m (AutoDXT, 1024X1024)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Grass_r (AutoDXT, 1024X1024)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Grass_n (BC5, 1024X1024)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Grass_d (AutoDXT, 1024X1024)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Cliff_r (AutoDXT, 2048X2048)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Cliff_n (BC5, 2048X2048)
+[2019.09.28-18.16.44:055][149]LogTexture: Display: Building textures: Pl_Cliff_d (AutoDXT, 2048X2048)
+[2019.09.28-18.16.44:055][149]LogMaterial: Display: Missing cached shader map for material M_Grass, compiling. 
+[2019.09.28-18.16.44:094][149]LogStaticMesh: Building static mesh Pl_8m_Platform...
+[2019.09.28-18.16.44:096][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.09.28-18.16.44:096][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.09.28-18.16.44:096][149]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.28-18.16.44:096][149]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.28-18.16.44:123][149]LogStaticMesh: Built static mesh [0.03s] /Game/Platformer/Meshes/Pl_8m_Platform.Pl_8m_Platform
+[2019.09.28-18.16.45:401][149]LogMaterial: Display: Missing cached shader map for material M_Cliff, compiling. 
+[2019.09.28-18.16.45:434][149]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer/Meshes/Pl_8m_Platform.Pl_8m_Platform
+[2019.09.28-18.16.46:522][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.09.28-18.16.46:748][149]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2019.09.28-18.16.46:748][149]LogSlate: Took 0.015826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.28-18.16.48:592][241]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.09.28-18.16.48:669][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.28-18.16.48:995][266]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.09.28-18.16.49:448][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.28-18.16.51:149][390]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.28-18.16.51:235][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.28-18.16.51:250][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.09.28-18.16.51:625][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.09.28-18.16.55:519][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.16.55:619][789]LogSlate: Window 'Pl_8m_Platform' being destroyed
+[2019.09.28-18.16.55:638][789]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.17.21:307][710]LogSkeletalMesh: Building Skeletal Mesh Face01SK...
+[2019.09.28-18.17.21:307][710]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Face01SK.Face01SK
+[2019.09.28-18.17.21:308][710]LogSkeletalMesh: Building Skeletal Mesh Cloth01SK...
+[2019.09.28-18.17.21:309][710]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Cloth01SK.Cloth01SK
+[2019.09.28-18.17.21:320][710]LogStaticMesh: Building static mesh Backpack01SM...
+[2019.09.28-18.17.21:348][710]LogStaticMesh: Built static mesh [0.03s] /Game/ModularRPGHeroesPolyart/Meshes/Weapons/Backpack01SM.Backpack01SM
+[2019.09.28-18.17.21:355][710]LogSkeletalMesh: Building Skeletal Mesh Hair01HalfSK...
+[2019.09.28-18.17.21:356][710]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Hair01HalfSK.Hair01HalfSK
+[2019.09.28-18.17.21:356][710]LogSkeletalMesh: Building Skeletal Mesh Glove02SK...
+[2019.09.28-18.17.21:357][710]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Glove02SK.Glove02SK
+[2019.09.28-18.17.21:358][710]LogSkeletalMesh: Building Skeletal Mesh Hair01SK...
+[2019.09.28-18.17.21:359][710]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModularRPGHeroesPolyart/Meshes/ModularBodyParts/Hair01SK.Hair01SK
+[2019.09.28-18.17.21:367][710]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Character/Characters/Farmer1.Farmer1
+[2019.09.28-18.17.21:898][710]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.09.28-18.17.23:263][710]LogSlate: Took 0.008853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.28-18.17.37:034][ 91]BlueprintLog: New page: Compile Farmer1
+[2019.09.28-18.17.37:299][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.09.28-18.21.05:830][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.09.28-18.21.05:830][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.036
+[2019.09.28-18.21.05:831][782]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Characters/Farmer1] ([1] browsable assets)...
+[2019.09.28-18.21.05:854][782]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Character/Characters/Farmer1.Farmer1]
+[2019.09.28-18.21.05:854][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Characters/Farmer1]
+[2019.09.28-18.21.05:958][782]LogSavePackage: Moving '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Farmer1_Auto15270EA674184DE3EF438EBB1113EBD82.tmp' to '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Autosaves/Game/TopDownBP/Character/Characters/Farmer1_Auto1.uasset'
+[2019.09.28-18.21.06:002][782]LogFileHelpers: Auto-saving content packages took 0.171
+[2019.09.28-18.27.36:200][ 66]BlueprintLog: New page: Compile Farmer1
+[2019.09.28-18.27.36:389][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.09.28-18.27.36:410][ 66]BlueprintLog: New page: Compile Farmer1
+[2019.09.28-18.27.36:600][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.09.28-18.27.37:712][189]LogSlate: Window 'Farmer1' being destroyed
+[2019.09.28-18.27.50:817][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.09.28-18.27.53:481][721]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.28-18.27.53:485][721]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Materials/Colour_Magenta.Colour_Magenta
+	Asset Name: /Game/Materials/Colour.Colour
+	Asset Name: /Game/Materials/Colour_Pink.Colour_Pink
+	Asset Name: /Game/Materials/Colour_Blue.Colour_Blue
+	Asset Name: /Game/Materials/Colour_Red.Colour_Red
+	Asset Name: /Game/Materials/Colour_Green.Colour_Green
+	Asset Name: /Game/Materials/Colour_Yellow.Colour_Yellow
+[2019.09.28-18.27.56:051][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.09.28-18.27.56:082][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.28-18.27.56:107][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.09.28-18.27.56:135][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.28-18.27.56:161][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.09.28-18.27.56:188][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.28-18.27.56:217][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.28-18.27.56:245][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.28-18.27.56:271][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.09.28-18.28.03:345][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:345][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:348][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:348][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:349][557]LogLinker: Warning: Failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:349][557]LogLinker: Warning: Failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:349][557]LogLinker: Warning: Failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:349][557]LogLinker: Warning: Failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:350][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:350][557]LoadErrors: Failed to load /Game/Materials/Colour_Magenta.Colour_Magenta Referenced by Mesh_GEN_VARIABLE
+[2019.09.28-18.28.03:350][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Date.uasset' failed to load '/Game/Materials/Colour_Magenta': Can't find file.
+[2019.09.28-18.28.03:367][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:367][557]LoadErrors: Failed to load /Game/Geometry/LoveBomb.LoveBomb Referenced by StaticMesh_GEN_VARIABLE
+[2019.09.28-18.28.03:368][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:368][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:368][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:380][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Win.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:380][557]LoadErrors: Failed to load /Game/Materials/Colour_Red.Colour_Red Referenced by Default__Player_C
+[2019.09.28-18.28.03:380][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Win.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:388][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:388][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:388][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:388][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:388][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:389][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:390][557]LoadErrors: Failed to load /Game/Materials/Colour_Blue.Colour_Blue Referenced by Default__Player_C
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:390][557]LoadErrors: Failed to load /Game/Materials/Colour_Green.Colour_Green Referenced by Default__Player_C
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:390][557]LoadErrors: Failed to load /Game/Materials/Colour_Yellow.Colour_Yellow Referenced by Default__Player_C
+[2019.09.28-18.28.03:390][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:424][557]LogBlueprint: Warning: [Compiler Player] InputAction Event references unknown Action 'UseItem' for  InputAction UseItem
+[2019.09.28-18.28.03:425][557]LogBlueprint: Warning: [Compiler Player] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:449][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Blue': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Green': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:450][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Red': Can't find file.
+[2019.09.28-18.28.03:451][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:451][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Player.uasset' failed to load '/Game/Materials/Colour_Yellow': Can't find file.
+[2019.09.28-18.28.03:452][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:452][557]LoadErrors: Failed to load /Game/Materials/Colour_Pink.Colour_Pink Referenced by LoveBomb
+[2019.09.28-18.28.03:452][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:452][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:452][557]LogLinker: Warning: While loading '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Content/Geometry/LoveBomb.uasset' failed to load '/Game/Materials/Colour_Pink': Can't find file.
+[2019.09.28-18.28.03:490][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.28-18.28.05:456][557]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.28-18.28.05:460][557]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Date.Date
+	Asset Name: /Game/Lovebomb.LoveBomb
+	Asset Name: /Game/Tables.Tables
+	Asset Name: /Game/Win.Win
+[2019.09.28-18.28.06:440][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.09.28-18.28.06:467][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.09.28-18.28.06:493][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.28-18.28.06:516][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.28-18.28.06:546][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.28-18.28.06:572][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.28-18.28.16:885][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.28-18.28.19:282][689]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.28-18.28.19:286][689]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+	Asset Name: /Game/Geometry/Meshes/1M_Cube.1M_Cube
+	Asset Name: /Game/Geometry/LoveBomb.LoveBomb
+	Asset Name: /Game/Geometry/heart.heart
+	Asset Name: /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Name: /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2019.09.28-18.28.19:511][689]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.09.28-18.28.19:524][689]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2019.09.28-18.28.19:549][689]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2019.09.28-18.28.19:558][689]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2019.09.28-18.28.19:561][689]LogStaticMesh: Building static mesh TemplateFloor...
+[2019.09.28-18.28.19:568][689]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2019.09.28-18.28.20:640][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.09.28-18.28.20:668][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.28-18.28.20:694][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.28-18.28.20:722][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.28-18.28.20:753][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.28-18.28.20:781][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.28-18.28.20:808][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.28-18.28.20:833][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.28-18.28.53:813][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.28-18.28.54:258][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.28-18.28.56:717][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.29.07:952][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.28-18.29.07:969][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.29.07:969][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-18.29.07:969][ 80]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 10:29:07 AM)
+[2019.09.28-18.29.07:969][ 80]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.29.07:981][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011379s)
+[2019.09.28-18.29.07:982][ 80]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.28-18.29.07:982][ 80]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.09.28-18.29.07:982][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012779s)
+[2019.09.28-18.29.08:042][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.09.28-18.29.08:082][ 80]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.28-18.29.08:093][ 80]LogInit: FAudioDevice initialized.
+[2019.09.28-18.29.08:102][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.29.08:102][ 80]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.28-18.29.08:105][ 80]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-14.29.08
+[2019.09.28-18.29.08:106][ 80]LogWorld: Bringing up level for play took: 0.003351
+[2019.09.28-18.29.08:106][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.09.28-18.29.08:110][ 80]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.092
+[2019.09.28-18.29.08:110][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.29.10:022][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.29.10:022][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.29.10:022][182]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.29.10:038][182]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-18.29.10:042][182]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.29.10:047][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-18.29.10:047][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.29.10:093][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.09.28-18.29.10:129][185]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.28-18.29.15:561][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.29.53:429][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.28-18.29.59:511][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.29.59:568][840]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.28-18.29.59:584][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.29.59:584][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-18.29.59:584][840]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 10:29:59 AM)
+[2019.09.28-18.29.59:584][840]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.29.59:595][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010795s)
+[2019.09.28-18.29.59:596][840]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.28-18.29.59:596][840]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2019.09.28-18.29.59:597][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012050s)
+[2019.09.28-18.29.59:631][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.09.28-18.29.59:670][840]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.28-18.29.59:680][840]LogInit: FAudioDevice initialized.
+[2019.09.28-18.29.59:690][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.29.59:690][840]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.28-18.29.59:694][840]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-14.29.59
+[2019.09.28-18.29.59:695][840]LogWorld: Bringing up level for play took: 0.003767
+[2019.09.28-18.29.59:695][840]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.09.28-18.29.59:699][840]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.503
+[2019.09.28-18.29.59:699][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.04:693][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.04:694][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.30.04:694][122]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.30.04:710][122]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-18.30.04:721][122]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.30.04:732][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-18.30.04:732][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.04:773][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.09.28-18.30.04:819][124]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.28-18.30.07:236][413]LogEditorViewport: Clicking on Actor (double click): Farmer1_2_C (Farmer1_2)
+[2019.09.28-18.30.08:898][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.28-18.30.08:973][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.28-18.30.08:989][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.08:990][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-18.30.08:990][613]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 10:30:08 AM)
+[2019.09.28-18.30.08:990][613]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.30.09:001][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010822s)
+[2019.09.28-18.30.09:002][613]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.28-18.30.09:002][613]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2019.09.28-18.30.09:002][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012284s)
+[2019.09.28-18.30.09:036][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.09.28-18.30.09:073][613]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.28-18.30.09:083][613]LogInit: FAudioDevice initialized.
+[2019.09.28-18.30.09:091][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.30.09:091][613]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.28-18.30.09:095][613]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-14.30.09
+[2019.09.28-18.30.09:096][613]LogWorld: Bringing up level for play took: 0.003591
+[2019.09.28-18.30.09:096][613]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.09.28-18.30.09:100][613]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.898
+[2019.09.28-18.30.09:100][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.11:207][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.11:208][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-18.30.11:208][730]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.28-18.30.11:221][730]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-18.30.11:227][730]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.28-18.30.11:232][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-18.30.11:232][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.28-18.30.11:283][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.28-18.30.11:314][733]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.09.28-18.31.15:753][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.28-18.31.15:986][278]LogSavePackage: Moving '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/TopDownExampleMap_Auto2794392C74FEB2FA51A14B9A0A246CE37.tmp' to '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.09.28-18.31.15:989][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.266
+[2019.09.28-18.31.15:989][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2019.09.28-18.31.15:991][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player] ([1] browsable assets)...
+[2019.09.28-18.31.16:006][278]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player.Player]
+[2019.09.28-18.31.16:006][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player]
+[2019.09.28-18.31.16:006][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Autosaves/Game/Player_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.28-18.31.16:131][278]LogSavePackage: Moving '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Player_Auto2C17836AE4DFC6CDC860BB2ACB54254ED.tmp' to '../../../../../../C drive/Documents/Github/GameJam2/GameJam2/Saved/Autosaves/Game/Player_Auto2.uasset'
+[2019.09.28-18.31.16:132][278]LogFileHelpers: Auto-saving content packages took 0.142
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4AFE98F1-4958-F82A-1EE0-8CAEE1678F72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=3398275449b10f4e0b42c79f2fc7327c%7Ca8ff2dfbf0d447ffba1ae8693640c32f%7Ce106e0bc-136d-4182-ab9c-3105feead9ed&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: request failed, libcurl error: 0 (No error)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23a2dc8bf70 [can pipeline])
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.156.38) port 443 (#10))
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 7 (Closing connection 10)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: 0000023AA2ACDA80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.28-18.35.01:609][956]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4AFE98F1-4958-F82A-1EE0-8CAEE1678F72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=3398275449b10f4e0b42c79f2fc7327c%7Ca8ff2dfbf0d447ffba1ae8693640c32f%7Ce106e0bc-136d-4182-ab9c-3105feead9ed&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.28-18.36.31:903][235]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player.Player
+[2019.09.28-18.37.02:009][398]LogEditorTransaction: Undo Move Nodes
+[2019.09.28-18.37.02:883][486]LogEditorTransaction: Undo Paste clipboard contents
+[2019.09.28-18.37.04:702][701]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_CallFunction_0 or K2Node_CallFunction /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_CallFunction_0
+[2019.09.28-18.37.04:703][701]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.EdGraphNode_Comment_0 or EdGraphNode_Comment /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.EdGraphNode_Comment_0
+[2019.09.28-18.37.04:703][701]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_2 or K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_2
+[2019.09.28-18.37.04:704][701]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_6
+[2019.09.28-18.37.04:704][701]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_4 or K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_4
+[2019.09.28-18.37.04:705][701]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_0 or K2Node_VariableGet /Game/TopDownBP/Character/Characters/Farmer1.Farmer1:EventGraph.K2Node_VariableGet_0
+[2019.09.28-18.38.18:862][511]BlueprintLog: New page: Compile Farmer1
+[2019.09.28-18.38.18:865][511]LogBlueprint: Error: [Compiler Farmer1] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2019.09.28-18.38.18:865][511]LogBlueprint: Error: [Compiler Farmer1] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2019.09.28-18.38.18:865][511]LogBlueprint: Error: [Compiler Farmer1] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2019.09.28-18.38.19:102][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.09.28-18.38.36:989][334]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.28-18.38.56:957][645]LogEditorTransaction: Undo Delete current selection
+[2019.09.28-18.39.21:506][520]BlueprintLog: New page: Compile Player
+[2019.09.28-18.39.21:540][520]LogBlueprint: Error: [Compiler Player] Spawn node  Create Widget  must have a class specified.
+[2019.09.28-18.39.21:540][520]LogBlueprint: Error: [Compiler Player] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.09.28-18.39.21:541][520]LogBlueprint: Error: [Compiler Player] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.09.28-18.39.21:541][520]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.28-18.39.21:541][520]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.09.28-18.39.29:024][520]LogWindows: Error: === Critical error: ===
+[2019.09.28-18.39.29:024][520]LogWindows: Error: 
+[2019.09.28-18.39.29:024][520]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/BlueprintGeneratedClass.cpp] [Line: 161] 
+[2019.09.28-18.39.29:024][520]LogWindows: Error: UBlueprintGeneratedClass::GetAuthoritativeClass: ClassGeneratedBy is null. class '/Engine/Transient.DEADCLASS_Date_C_0'
+[2019.09.28-18.39.29:024][520]LogWindows: Error: 
+[2019.09.28-18.39.29:024][520]LogWindows: Error: 
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe5af4a839 KERNELBASE.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0cbc9ef7 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0cbcc754 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c9c1afa UE4Editor-Core.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c9167c3 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c9166a8 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0877859d UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe04a20890 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe04a4aa37 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe04aa427a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe04ad066b UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe013ba4a2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe013a4666 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe013a8ad3 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe013982ef UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe05941bfc UE4Editor-Kismet.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe058f3977 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe07345eb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe059ea781 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe05a05d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c237fda UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c31a262 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c2fccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c3958b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c3b14b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c1f5231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c27b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c2652e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe0c259c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe3e374e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe3e3626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe3e377340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe3e35edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe5bb7681d USER32.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe5bb76212 USER32.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe3e3788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ff6589e6980 UE4Editor.exe!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ff6589fa91c UE4Editor.exe!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ff6589fa9fa UE4Editor.exe!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ff658a0b92c UE4Editor.exe!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ff658a0e60e UE4Editor.exe!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe5d2d7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: [Callstack] 0x00007ffe5d42ced1 ntdll.dll!UnknownFunction []
+[2019.09.28-18.39.29:024][520]LogWindows: Error: 
+[2019.09.28-18.39.29:037][520]LogExit: Executing StaticShutdownAfterError
+[2019.09.28-18.39.29:040][520]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.09.28-18.39.29:117][520]Log file closed, 09/28/19 14:39:29
