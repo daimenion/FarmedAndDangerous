@@ -1,0 +1,876 @@
+﻿Log file open, 10/07/19 13:01:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180821
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU:       Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz, GPU: AMD FirePro D700 (FireGL V)
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.07-17.01.47:766][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:767][  0]LogConfig: Setting CVar [[p.EnableMultiplayerWorldOriginRebasing:0]]
+[2019.10.07-17.01.47:767][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:777][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.07-17.01.47:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.07-17.01.47:778][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.07-17.01.47:779][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.07-17.01.47:779][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.07-17.01.47:789][  0]LogHAL: Display: Platform has ~ 32 GB [34329395200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.07-17.01.47:789][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.07-17.01.47:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.07-17.01.47:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.10.07-17.01.47:791][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.07-17.01.47:795][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.07-17.01.47:795][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.07-17.01.47:796][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.07-17.01.47:797][  0]LogInit: Computer: WFD211-12W
+[2019.10.07-17.01.47:797][  0]LogInit: User: MinxuHuang
+[2019.10.07-17.01.47:797][  0]LogInit: CPU Page size=4096, Cores=12
+[2019.10.07-17.01.47:797][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.07-17.01.47:797][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.10.07-17.01.47:798][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.07-17.01.47:798][  0]LogMemory: Process Physical Memory: 104.16 MB used, 104.16 MB peak
+[2019.10.07-17.01.47:798][  0]LogMemory: Process Virtual Memory: 102.36 MB used, 102.36 MB peak
+[2019.10.07-17.01.47:798][  0]LogMemory: Physical Memory: 3492.32 MB used,  29246.74 MB free, 32739.06 MB total
+[2019.10.07-17.01.47:798][  0]LogMemory: Virtual Memory: 4751.46 MB used,  134212976.00 MB free, 134217728.00 MB total
+[2019.10.07-17.01.47:803][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.07-17.01.48:000][  0]LogInit: Using OS detected language (en-US).
+[2019.10.07-17.01.48:000][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.07-17.01.48:002][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.07-17.01.48:301][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.07-17.01.48:389][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.07-17.01.48:389][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.07-17.01.50:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.07-17.01.50:328][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.07-17.01.50:355][  0]LogD3D11RHI:    0. 'AMD FirePro D700 (FireGL V)' (Feature Level 11_0)
+[2019.10.07-17.01.50:355][  0]LogD3D11RHI:       6124/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.10.07-17.01.50:357][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.07-17.01.50:357][  0]LogD3D11RHI:       0/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.07-17.01.50:357][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.07-17.01.50:366][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.07-17.01.50:366][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.07-17.01.50:366][  0]LogWindows: EnumDisplayDevices:
+[2019.10.07-17.01.50:367][  0]LogWindows:    0. 'AMD FirePro D700 (FireGL V)' (P:1 D:1)
+[2019.10.07-17.01.50:367][  0]LogWindows:    1. 'AMD FirePro D700 (FireGL V)' (P:0 D:1)
+[2019.10.07-17.01.50:367][  0]LogWindows:    2. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.07-17.01.50:368][  0]LogWindows:    3. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.07-17.01.50:368][  0]LogWindows:    4. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.07-17.01.50:369][  0]LogWindows:    5. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.07-17.01.50:369][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2019.10.07-17.01.50:369][  0]LogD3D11RHI:     Adapter Name: AMD FirePro D700 (FireGL V)
+[2019.10.07-17.01.50:369][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.6 (internal:22.19.170.1536, unified:22.19.170.1536)
+[2019.10.07-17.01.50:369][  0]LogD3D11RHI:      Driver Date: 7-20-2017
+[2019.10.07-17.01.50:369][  0]LogRHI: Texture pool is 4287 MB (70% of 6124 MB)
+[2019.10.07-17.01.50:526][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.07-17.01.50:548][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.10.07-17.01.51:117][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.07-17.01.51:128][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.07-17.01.51:139][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.07-17.01.51:149][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.07-17.01.51:165][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.07-17.01.51:176][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.07-17.01.51:187][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.07-17.01.51:197][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.07-17.01.51:203][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.07-17.01.51:248][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.07-17.01.51:251][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.07-17.01.51:283][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.07-17.01.51:283][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.07-17.01.51:298][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.07-17.01.51:298][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.07-17.01.51:307][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.07-17.01.51:316][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.07-17.01.51:325][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.07-17.01.51:342][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.07-17.01.51:374][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.07-17.01.51:374][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.07-17.01.51:375][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.07-17.01.51:421][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.07-17.01.51:529][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Intermediate/Shaders/WorkingDirectory/3908/).
+[2019.10.07-17.01.51:529][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MinxuHuang/AppData/Local/Temp/UnrealShaderWorkingDir/DA7D90E747C82D9B3E4866B1E82AE9CD/'.
+[2019.10.07-17.01.51:533][  0]LogXGEController: Cleaning working directory: C:/Users/MinxuHuang/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.07-17.01.51:533][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.07-17.01.51:534][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.07-17.01.51:534][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.07-17.01.54:013][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.07-17.01.54:118][  0]LogDerivedDataCache: Loaded boot cache 0.11s 73MB C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.07-17.01.54:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.07-17.01.54:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.07-17.01.54:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.07-17.01.54:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.07-17.01.54:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.07-17.01.54:139][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.07-17.01.54:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.07-17.01.54:139][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.07-17.01.54:140][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MinxuHuang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.07-17.01.54:141][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.07-17.01.54:141][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.07-17.01.54:176][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.07-17.01.54:183][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.07-17.01.54:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.07-17.01.54:534][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2019.10.07-17.01.55:080][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.07-17.01.55:428][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.07-17.01.55:428][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.07-17.01.55:428][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.07-17.01.55:428][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.07-17.01.55:428][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.07-17.01.55:478][  0]LogNetVersion: GameJam2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 950447696)
+[2019.10.07-17.01.56:566][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.058360 seconds
+[2019.10.07-17.01.56:571][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.07-17.01.56:571][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.07-17.01.56:571][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.07-17.02.00:081][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.07-17.02.00:087][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.07-17.02.00:186][  0]SourceControl: Source control is disabled
+[2019.10.07-17.02.00:186][  0]SourceControl: Source control is disabled
+[2019.10.07-17.02.00:195][  0]SourceControl: Source control is disabled
+[2019.10.07-17.02.00:198][  0]SourceControl: Source control is disabled
+[2019.10.07-17.02.00:426][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.07-17.02.00:767][  0]LogOcInput: OculusInput pre-init called
+[2019.10.07-17.02.00:778][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.07-17.02.00:778][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.07-17.02.00:910][  0]LogEngine: Initializing Engine...
+[2019.10.07-17.02.00:911][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.07-17.02.00:914][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.10.07-17.02.01:205][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.07-17.02.01:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.07-17.02.01:343][  0]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.07-17.02.01:549][  0]LogInit: FAudioDevice initialized.
+[2019.10.07-17.02.01:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.07-17.02.01:609][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.07-17.02.01:622][  0]LogInit: Texture streaming: Enabled
+[2019.10.07-17.02.01:646][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.07-17.02.01:730][  0]LogInit: Transaction tracking system initialized
+[2019.10.07-17.02.01:795][  0]BlueprintLog: New page: Editor Load
+[2019.10.07-17.02.01:948][  0]LocalizationService: Localization service is disabled
+[2019.10.07-17.02.02:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/' took 0.01s
+[2019.10.07-17.02.02:295][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.07-17.02.02:295][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.07-17.02.02:724][  0]SourceControl: Source control is disabled
+[2019.10.07-17.02.02:725][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.07-17.02.02:725][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.10.07-17.02.02:725][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.07-17.02.02:726][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.423ms to complete.
+[2019.10.07-17.02.02:726][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2019.10.07-17.02.02:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.02:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.02:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.02:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.02:939][  0]LogCollectionManager: Loaded 0 collections in 0.002121 seconds
+[2019.10.07-17.02.02:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Collections/' took 0.00s
+[2019.10.07-17.02.02:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Developers/MinxuHuang/Collections/' took 0.00s
+[2019.10.07-17.02.02:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Collections/' took 0.00s
+[2019.10.07-17.02.02:957][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.07-17.02.02:969][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2863 classes and 680 folders.
+[2019.10.07-17.02.02:980][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.07-17.02.03:323][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.07-17.02.03:334][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.07-17.02.04:813][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.07-17.02.04:860][  0]LogSlate: Took 0.010220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.07-17.02.04:866][  0]LogSlate: Took 0.004615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.07-17.02.04:878][  0]LogSlate: Took 0.004893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.07-17.02.05:006][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 9 NumSamples 1 (Frame:1).
+[2019.10.07-17.02.05:169][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.07-17.02.05:169][  0]LogLoad: (Engine Initialization) Total time: 22.03 seconds
+[2019.10.07-17.02.05:169][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.07-17.02.05:182][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.07-17.02.05:182][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.07-17.02.05:182][  0]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.10.07-17.02.05:182][  0]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.10.07-17.02.05:182][  0]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.10.07-17.02.05:182][  0]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.10.07-17.02.05:234][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.10.07-17.02.07:309][231]LogAssetRegistry: Asset discovery search completed in 12.7747 seconds
+[2019.10.07-17.02.07:313][231]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.07-17.02.07:313][231]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.10.07-17.02.09:936][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.02.10:010][548]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.07-17.02.10:015][548]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.07-17.02.11:411][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.02.12:413][829]LogSlate: Took 0.007621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.07-17.02.13:144][829]LogTexture: Display: Building textures: Pl_BeanStalk_d (AutoDXT, 2048X2048)
+[2019.10.07-17.02.13:145][829]LogTexture: Display: Building textures: Pl_Grass_r (AutoDXT, 1024X1024)
+[2019.10.07-17.02.13:145][829]LogTexture: Display: Building textures: Pl_Grass_n (BC5, 1024X1024)
+[2019.10.07-17.02.13:145][829]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave plantDestroyed...
+[2019.10.07-17.02.13:217][829]LogTexture: Display: Building textures: Pl_Grass_d (AutoDXT, 1024X1024)
+[2019.10.07-17.02.13:217][829]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 122112 while cooking SoundWave /Game/Audio/plantDestroyed.plantDestroyed.
+[2019.10.07-17.02.13:579][829]LogTexture: Display: Building textures: Pl_Leaf_01_d (AutoDXT, 2048X2048)
+[2019.10.07-17.02.13:579][829]LogTexture: Display: Building textures: Pl_BeanStalk_r (AutoDXT, 2048X2048)
+[2019.10.07-17.02.13:579][829]LogTexture: Display: Building textures: Pl_Leaf_01_n (BC5, 2048X2048)
+[2019.10.07-17.02.13:579][829]LogTexture: Display: Building textures: Pl_Leaf_01_r (AutoDXT, 2048X2048)
+[2019.10.07-17.02.13:580][829]LogTexture: Display: Building textures: Pl_BeanStalk_n (BC5, 2048X2048)
+[2019.10.07-17.02.13:580][829]LogStaticMesh: Building static mesh Pl_fern_02...
+[2019.10.07-17.02.13:613][829]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Platformer/Meshes/Pl_fern_02.Pl_fern_02
+[2019.10.07-17.02.13:766][829]LogStaticMesh: Building static mesh Pl_stalkend_03...
+[2019.10.07-17.02.13:784][829]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Platformer/Meshes/Beanstalks/Pl_stalkend_03.Pl_stalkend_03
+[2019.10.07-17.02.14:049][829]LogMaterial: Display: Missing cached shader map for material M_BeanStalk, compiling. 
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 31
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 29
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 27
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 25
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 23
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 21
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 19
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 17
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 15
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 13
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 11
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 9
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 7
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 5
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 3
+[2019.10.07-17.02.14:234][829]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2019.10.07-17.02.14:234][829]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave fruitSplat...
+[2019.10.07-17.02.14:250][829]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46148 while cooking SoundWave /Game/Audio/fruitSplat.fruitSplat.
+[2019.10.07-17.02.14:316][829]LogMaterial: Display: Missing cached shader map for material M_Grass_nopattern, compiling. 
+[2019.10.07-17.02.14:343][829]LogMaterial: Display: Missing cached shader map for material M_Leaf, compiling. 
+[2019.10.07-17.02.14:482][829]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 62
+[2019.10.07-17.02.14:482][829]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 58
+[2019.10.07-17.02.14:482][829]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 54
+[2019.10.07-17.02.14:482][829]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 50
+[2019.10.07-17.02.14:482][829]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave plantHurt...
+[2019.10.07-17.02.14:503][829]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101376 while cooking SoundWave /Game/Audio/plantHurt.plantHurt.
+[2019.10.07-17.02.14:513][829]LogAIModule: Creating AISystem for world Prototype
+[2019.10.07-17.02.14:603][829]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype.Prototype
+[2019.10.07-17.02.14:668][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.10.07-17.02.14:670][829]Cmd: MAP LOAD FILE="../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.07-17.02.14:671][829]LightingResults: New page: Lighting Build
+[2019.10.07-17.02.14:676][829]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2019.10.07-17.02.14:677][829]LoadErrors: New page: Loading map: Prototype.umap
+[2019.10.07-17.02.14:678][829]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.02.14:678][829]MapCheck: New page: Map Check
+[2019.10.07-17.02.14:679][829]LightingResults: New page: Lighting Build
+[2019.10.07-17.02.14:727][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.07-17.02.14:845][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.07-17.02.14:903][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.07-17.02.14:964][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.07-17.02.14:964][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2019.10.07-17.02.14:964][829]LogFileHelpers: Loading map 'Prototype' took 0.295
+[2019.10.07-17.02.15:025][829]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 46
+[2019.10.07-17.02.15:374][835]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 43
+[2019.10.07-17.02.15:528][839]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 40
+[2019.10.07-17.02.15:548][839]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 37
+[2019.10.07-17.02.15:570][840]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 35
+[2019.10.07-17.02.15:885][847]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 33
+[2019.10.07-17.02.15:885][847]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.07-17.02.15:914][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.02.15:914][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.07-17.02.15:915][847]PIE: New page: PIE session: Prototype (Oct 7, 2019, 9:02:15 AM)
+[2019.10.07-17.02.15:917][847]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.07-17.02.15:920][847]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 31
+[2019.10.07-17.02.15:920][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.02.15:950][847]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 29
+[2019.10.07-17.02.15:951][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030824s)
+[2019.10.07-17.02.15:953][847]LogAIModule: Creating AISystem for world Prototype
+[2019.10.07-17.02.15:953][847]LogPlayLevel: PIE: World Init took: (0.002271s)
+[2019.10.07-17.02.15:953][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.033554s)
+[2019.10.07-17.02.16:003][847]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 27
+[2019.10.07-17.02.16:003][847]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 25
+[2019.10.07-17.02.16:003][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.07-17.02.16:169][847]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 23
+[2019.10.07-17.02.16:169][847]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 21
+[2019.10.07-17.02.16:169][847]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 19
+[2019.10.07-17.02.16:169][847]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 18
+[2019.10.07-17.02.16:169][847]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.07-17.02.16:197][847]LogInit: FAudioDevice initialized.
+[2019.10.07-17.02.16:216][847]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.07-17.02.16:231][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.07-13.02.16
+[2019.10.07-17.02.16:235][847]LogWorld: Bringing up level for play took: 0.014848
+[2019.10.07-17.02.16:236][847]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.07-17.02.16:254][847]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 17
+[2019.10.07-17.02.16:254][847]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.10.07-17.02.16:256][847]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.07-17.02.16:286][847]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.321
+[2019.10.07-17.02.16:287][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.02.16:331][848]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 16
+[2019.10.07-17.02.16:331][848]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 15
+[2019.10.07-17.02.16:331][848]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 14
+[2019.10.07-17.02.16:597][852]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 13
+[2019.10.07-17.02.16:648][853]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 12
+[2019.10.07-17.02.16:773][856]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 11
+[2019.10.07-17.02.16:815][857]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 10
+[2019.10.07-17.02.16:817][857]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 9
+[2019.10.07-17.02.16:849][858]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 8
+[2019.10.07-17.02.16:895][859]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 7
+[2019.10.07-17.02.16:910][859]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 6
+[2019.10.07-17.02.16:970][861]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2019.10.07-17.02.17:030][862]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 4
+[2019.10.07-17.02.17:057][863]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 3
+[2019.10.07-17.02.17:076][863]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 2
+[2019.10.07-17.02.17:098][864]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2019.10.07-17.02.26:774][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.02.26:774][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.26:775][290]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.02.26:775][290]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.02.26:823][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.07-17.02.26:823][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.02.26:870][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.02.26:875][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.07-17.02.26:892][291]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.07-17.04.16:266][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.07-17.04.19:266][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.04.19:266][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.07-17.04.19:266][788]PIE: New page: PIE session: Prototype (Oct 7, 2019, 9:04:19 AM)
+[2019.10.07-17.04.19:266][788]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.04.19:282][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015477s)
+[2019.10.07-17.04.19:283][788]LogAIModule: Creating AISystem for world Prototype
+[2019.10.07-17.04.19:283][788]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2019.10.07-17.04.19:283][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016926s)
+[2019.10.07-17.04.19:326][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.07-17.04.19:411][788]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.07-17.04.19:426][788]LogInit: FAudioDevice initialized.
+[2019.10.07-17.04.19:428][788]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.07-17.04.19:432][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.04.19:432][788]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.07-17.04.19:439][788]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.07-13.04.19
+[2019.10.07-17.04.19:440][788]LogWorld: Bringing up level for play took: 0.007674
+[2019.10.07-17.04.19:441][788]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.07-17.04.19:443][788]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.07-17.04.19:451][788]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.514
+[2019.10.07-17.04.19:452][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.04.50:686][163]LogScript: Warning: Attempted to access FruitWatermelon_C_1 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.04.50:686][163]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_1 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.04.56:048][377]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.04.56:049][377]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.04.58:498][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.04.58:499][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.04.58:499][479]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.04.58:517][479]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.07-17.04.58:545][479]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.04.58:555][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.07-17.04.58:556][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.04.58:609][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.07-17.04.58:615][479]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.07-17.04.58:644][480]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.07-17.05.00:554][559]LogSlate: Window 'Message Log' being destroyed
+[2019.10.07-17.05.00:558][559]LogSlate: Window 'Message Log' being destroyed
+[2019.10.07-17.05.02:055][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.05.04:423][710]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/pumpkinExplosion.pumpkinExplosion
+[2019.10.07-17.05.04:655][710]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.07-17.05.05:984][710]LogSlate: Took 0.004727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.07-17.05.07:589][765]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 9 NumSamples 1 (Frame:1).
+[2019.10.07-17.05.11:569][897]LogSlate: Took 0.007965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.07-17.05.38:092][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.05.38:139][807]BlueprintLog: New page: Compile pumpkinExplosion
+[2019.10.07-17.05.38:423][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.10.07-17.05.50:552][637]LogSavePackage: Moving '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/pumpkinExplosionD1A51B484C7C30E01D75F58C9C936A15.tmp' to '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Blueprints/Fruits_Veggies/pumpkinExplosion.uasset'
+[2019.10.07-17.05.51:579][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.05.51:634][676]LogSlate: Window 'pumpkinExplosion' being destroyed
+[2019.10.07-17.05.51:663][676]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.05.55:115][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.06.18:555][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Plants/WatermelonSeed.WatermelonSeed
+[2019.10.07-17.06.41:273][786]LogTexture: Display: Building textures: Pl_Patterns_m (AutoDXT, 1024X1024)
+[2019.10.07-17.06.41:273][786]LogMaterial: Display: Missing cached shader map for material M_Grass, compiling. 
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 31
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 29
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 27
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 25
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 23
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 21
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 19
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 17
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 15
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 13
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 11
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 9
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 7
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 5
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 3
+[2019.10.07-17.06.41:305][786]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2019.10.07-17.06.47:502][930]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/FruitWatermelon.FruitWatermelon
+[2019.10.07-17.06.57:668][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.06.57:796][289]LogSavePackage: Moving '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/FruitWatermelonE32F390D4B04C87005A30CADAA2707F9.tmp' to '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Blueprints/Fruits_Veggies/FruitWatermelon.uasset'
+[2019.10.07-17.06.58:599][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.06.59:526][346]LogSavePackage: Moving '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/WatermelonSeedBA6BDA20451E9B97DDD4E4A49C035951.tmp' to '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Blueprints/Plants/WatermelonSeed.uasset'
+[2019.10.07-17.07.00:007][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.07.00:093][369]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.07.02:335][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.07-17.07.02:356][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.07.02:356][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.07-17.07.02:356][438]PIE: New page: PIE session: Prototype (Oct 7, 2019, 9:07:02 AM)
+[2019.10.07-17.07.02:356][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.07.02:371][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015088s)
+[2019.10.07-17.07.02:372][438]LogAIModule: Creating AISystem for world Prototype
+[2019.10.07-17.07.02:373][438]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.10.07-17.07.02:373][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016425s)
+[2019.10.07-17.07.02:464][438]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2019.10.07-17.07.02:550][438]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.07-17.07.02:566][438]LogInit: FAudioDevice initialized.
+[2019.10.07-17.07.02:571][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.07.02:571][438]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.07-17.07.02:579][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.07-13.07.02
+[2019.10.07-17.07.02:580][438]LogWorld: Bringing up level for play took: 0.007802
+[2019.10.07-17.07.02:580][438]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.07-17.07.02:582][438]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.07-17.07.02:593][438]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.627
+[2019.10.07-17.07.02:593][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.07.38:178][803]LogScript: Warning: Attempted to access FruitWatermelon_C_3 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_3 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.07.38:178][803]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_3 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_3 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.07.43:381][994]LogScript: Warning: Attempted to access FruitPumpkin_C_2 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_2 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.07.43:381][994]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_2 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_2 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.07.46:402][107]LogScript: Warning: Attempted to access FruitWatermelon_C_4 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_4 is pending kill
+	PumpkinTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.PumpkinTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.07.46:402][107]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_4 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_4 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.07.56:381][478]LogScript: Warning: Attempted to access FruitPumpkin_C_4 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_4 is pending kill
+	PumpkinTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.PumpkinTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.07.56:381][478]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_4 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_4 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.07.59:869][604]LogScript: Warning: Attempted to access FruitWatermelon_C_6 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_6 is pending kill
+	PumpkinTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.PumpkinTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:048E
+[2019.10.07-17.07.59:869][604]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_6 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_6 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.07-17.08.01:239][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.08.01:240][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.07-17.08.01:240][654]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.07-17.08.01:256][654]LogSlate: Window 'GameJam2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.07-17.08.01:296][654]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.08.01:313][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.07-17.08.01:314][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.07-17.08.01:386][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.10.07-17.08.01:395][654]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.07-17.08.01:464][655]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.07-17.08.08:324][878]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Plants/TreeParents.TreeParents
+[2019.10.07-17.08.18:675][246]LogSlate: Window 'Message Log' being destroyed
+[2019.10.07-17.08.18:681][246]LogSlate: Window 'Message Log' being destroyed
+[2019.10.07-17.08.20:279][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.07-17.08.20:389][318]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.10.10:430][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/pumpkinExplosion.pumpkinExplosion
+[2019.10.07-17.10.22:057][724]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.10.07-17.11.09:620][583]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/NewStoreUI.NewStoreUI
+[2019.10.07-17.11.53:206][721]LogEditorTransaction: Undo Add Widget
+[2019.10.07-17.12.03:232][190]LogEditorTransaction: Undo Move Widget
+[2019.10.07-17.12.07:651][380]LogEditorTransaction: Undo Move Widget
+[2019.10.07-17.12.07:999][399]LogEditorTransaction: Undo Move Widget
+[2019.10.07-17.12.08:487][438]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.07-17.13.10:054][923]Cmd: TRANSACTION UNDO
+[2019.10.07-17.13.10:054][923]LogEditorTransaction: Undo Edit Color and Opacity
+[2019.10.07-17.13.10:716][945]Cmd: TRANSACTION UNDO
+[2019.10.07-17.13.10:716][945]LogEditorTransaction: Undo Edit Color and Opacity
+[2019.10.07-17.13.10:716][945]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.07-17.13.14:370][ 82]BlueprintLog: New page: Compile NewStoreUI
+[2019.10.07-17.13.14:812][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.10.07-17.13.20:285][310]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.10.07-17.14.37:432][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   9.71ms
+[2019.10.07-17.14.38:087][ 65]LogSavePackage: Moving '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Prototype_Auto14FFBCA8B4FDD1C6602693B98F796DA31.tmp' to '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Maps/Prototype_Auto1.umap'
+[2019.10.07-17.14.38:094][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Prototype' took 0.743
+[2019.10.07-17.14.38:094][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.743
+[2019.10.07-17.14.38:095][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/UI/NewStoreUI] ([1] browsable assets)...
+[2019.10.07-17.14.38:096][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/NewStoreUI]
+[2019.10.07-17.14.38:112][ 65]LogSavePackage: Moving '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/NewStoreUI_Auto18382DA694EBC07C549B61BB8D5A98E98.tmp' to '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/UI/NewStoreUI_Auto1.uasset'
+[2019.10.07-17.14.38:113][ 65]LogFileHelpers: Auto-saving content packages took 0.018
+[2019.10.07-17.18.00:922][823]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2019.10.07-17.18.51:028][535]LogEditorTransaction: Undo Add Node
+[2019.10.07-17.19.00:259][ 97]LogEditorTransaction: Undo Move Node
+[2019.10.07-17.19.00:713][113]LogEditorTransaction: Undo Add Node
+[2019.10.07-17.19.01:642][149]LogEditorTransaction: Undo Delete current selection
+[2019.10.07-17.19.02:069][165]LogEditorTransaction: Undo Move Nodes
+[2019.10.07-17.19.02:329][175]LogEditorTransaction: Undo Move Nodes
+[2019.10.07-17.19.02:926][198]LogEditorTransaction: Undo Move Nodes
+[2019.10.07-17.19.05:192][322]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.07-17.19.35:958][ 35]LogEditorTransaction: Undo Add Node
+[2019.10.07-17.23.43:856][518]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.07-17.23.44:364][518]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.507 s
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: 
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: Ensure condition failed: ClassOwner [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/EdGraphSchema_K2.cpp] [Line: 6380]
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: Wrong class owner of signature /Script/Engine.InputAxisHandlerDynamicSignature__DelegateSignature in node /Game/Blueprints/UI/NewStoreUI.NewStoreUI:EventGraph.K2Node_InputAxisEvent_1
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: Stack: 
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93c88a020 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93c6beb37 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff942d015bb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff942ec0c97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff942ce91b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93da6e949 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93da6e706 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93da45d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff94449b62a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff9444d191e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff93b3bfc08 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff944463076 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff9444d3413 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff9444c87fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff95c854a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff95c8426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff95c857340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff95c83edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff9895bca66 USER32.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff9895bc582 USER32.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff95c8588e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff61d2b6980 UE4Editor.exe!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff61d2ca91c UE4Editor.exe!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff61d2ca9fa UE4Editor.exe!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff61d2db92c UE4Editor.exe!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff61d2de60e UE4Editor.exe!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff989d27974 KERNEL32.DLL!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: [Callstack] 0x00007ff98c2da271 ntdll.dll!UnknownFunction []
+[2019.10.07-17.23.44:364][518]LogOutputDevice: Error: 
+[2019.10.07-17.23.44:372][518]LogStats:                SubmitErrorReport -  0.000 s
