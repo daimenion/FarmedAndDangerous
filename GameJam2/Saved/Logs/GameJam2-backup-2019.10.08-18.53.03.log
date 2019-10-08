@@ -1,0 +1,1180 @@
+﻿Log file open, 10/08/19 14:34:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.095814
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU:       Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz, GPU: AMD FirePro D700 (FireGL V)
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.08-18.34.06:193][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:194][  0]LogConfig: Setting CVar [[p.EnableMultiplayerWorldOriginRebasing:0]]
+[2019.10.08-18.34.06:194][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:201][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-18.34.06:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.08-18.34.06:202][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:203][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.08-18.34.06:203][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.08-18.34.06:203][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-18.34.06:203][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.08-18.34.06:206][  0]LogHAL: Display: Platform has ~ 32 GB [34329395200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.08-18.34.06:206][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.08-18.34.06:206][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.10.08-18.34.06:206][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.08-18.34.06:207][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.08-18.34.06:208][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.08-18.34.06:208][  0]LogInit: Computer: WFD211-12W
+[2019.10.08-18.34.06:208][  0]LogInit: User: MinxuHuang
+[2019.10.08-18.34.06:208][  0]LogInit: CPU Page size=4096, Cores=12
+[2019.10.08-18.34.06:208][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.08-18.34.06:208][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.10.08-18.34.06:208][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.08-18.34.06:208][  0]LogMemory: Process Physical Memory: 103.28 MB used, 103.29 MB peak
+[2019.10.08-18.34.06:208][  0]LogMemory: Process Virtual Memory: 102.52 MB used, 102.52 MB peak
+[2019.10.08-18.34.06:208][  0]LogMemory: Physical Memory: 5608.00 MB used,  27131.06 MB free, 32739.06 MB total
+[2019.10.08-18.34.06:208][  0]LogMemory: Virtual Memory: 4751.46 MB used,  134212976.00 MB free, 134217728.00 MB total
+[2019.10.08-18.34.06:210][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.08-18.34.06:234][  0]LogInit: Using OS detected language (en-US).
+[2019.10.08-18.34.06:234][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.08-18.34.06:235][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.08-18.34.06:419][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.08-18.34.06:453][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.08-18.34.06:453][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.08-18.34.06:666][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.08-18.34.06:666][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.08-18.34.06:691][  0]LogD3D11RHI:    0. 'AMD FirePro D700 (FireGL V)' (Feature Level 11_0)
+[2019.10.08-18.34.06:691][  0]LogD3D11RHI:       6124/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.10.08-18.34.06:693][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.08-18.34.06:693][  0]LogD3D11RHI:       0/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.08-18.34.06:693][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.08-18.34.06:699][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.08-18.34.06:699][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.08-18.34.06:699][  0]LogWindows: EnumDisplayDevices:
+[2019.10.08-18.34.06:699][  0]LogWindows:    0. 'AMD FirePro D700 (FireGL V)' (P:1 D:1)
+[2019.10.08-18.34.06:699][  0]LogWindows:    1. 'AMD FirePro D700 (FireGL V)' (P:0 D:1)
+[2019.10.08-18.34.06:700][  0]LogWindows:    2. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.08-18.34.06:700][  0]LogWindows:    3. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.08-18.34.06:701][  0]LogWindows:    4. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.08-18.34.06:701][  0]LogWindows:    5. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.10.08-18.34.06:701][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2019.10.08-18.34.06:701][  0]LogD3D11RHI:     Adapter Name: AMD FirePro D700 (FireGL V)
+[2019.10.08-18.34.06:701][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.6 (internal:22.19.170.1536, unified:22.19.170.1536)
+[2019.10.08-18.34.06:701][  0]LogD3D11RHI:      Driver Date: 7-20-2017
+[2019.10.08-18.34.06:701][  0]LogRHI: Texture pool is 4287 MB (70% of 6124 MB)
+[2019.10.08-18.34.06:853][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.08-18.34.06:867][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.10.08-18.34.07:198][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.08-18.34.07:208][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.08-18.34.07:219][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.08-18.34.07:229][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.08-18.34.07:240][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.08-18.34.07:250][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.08-18.34.07:261][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.08-18.34.07:271][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.08-18.34.07:276][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.08-18.34.07:315][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.08-18.34.07:317][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.08-18.34.07:338][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.08-18.34.07:338][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.08-18.34.07:354][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.08-18.34.07:354][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.08-18.34.07:363][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.08-18.34.07:371][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.08-18.34.07:380][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.08-18.34.07:389][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.08-18.34.07:418][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.08-18.34.07:418][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.08-18.34.07:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.08-18.34.07:429][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.08-18.34.07:486][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Intermediate/Shaders/WorkingDirectory/12516/).
+[2019.10.08-18.34.07:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MinxuHuang/AppData/Local/Temp/UnrealShaderWorkingDir/29802B424A890EEBC25A1A91CC62E0C4/'.
+[2019.10.08-18.34.07:489][  0]LogXGEController: Cleaning working directory: C:/Users/MinxuHuang/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.08-18.34.07:489][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.08-18.34.07:489][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.08-18.34.07:489][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.08-18.34.08:295][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-18.34.08:354][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.08-18.34.08:367][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.08-18.34.08:367][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-18.34.08:367][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.08-18.34.08:368][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MinxuHuang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.08-18.34.08:369][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.08-18.34.08:369][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.08-18.34.08:398][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.08-18.34.08:401][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.08-18.34.08:402][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.08-18.34.08:468][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.10.08-18.34.08:833][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-18.34.09:023][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.08-18.34.09:023][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.08-18.34.09:023][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.08-18.34.09:023][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.08-18.34.09:023][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.08-18.34.09:034][  0]LogNetVersion: GameJam2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 950447696)
+[2019.10.08-18.34.09:576][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.042872 seconds
+[2019.10.08-18.34.09:581][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.08-18.34.09:581][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.08-18.34.09:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.08-18.34.10:612][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.08-18.34.10:615][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.08-18.34.10:668][  0]SourceControl: Source control is disabled
+[2019.10.08-18.34.10:668][  0]SourceControl: Source control is disabled
+[2019.10.08-18.34.10:670][  0]SourceControl: Source control is disabled
+[2019.10.08-18.34.10:671][  0]SourceControl: Source control is disabled
+[2019.10.08-18.34.10:754][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.08-18.34.11:112][  0]LogOcInput: OculusInput pre-init called
+[2019.10.08-18.34.11:119][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.08-18.34.11:119][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.08-18.34.11:204][  0]LogEngine: Initializing Engine...
+[2019.10.08-18.34.11:204][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.08-18.34.11:206][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.08-18.34.11:489][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.08-18.34.11:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.08-18.34.11:608][  0]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.34.11:818][  0]LogInit: FAudioDevice initialized.
+[2019.10.08-18.34.11:819][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.08-18.34.11:883][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/MinxuHuang/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.08-18.34.11:895][  0]LogInit: Texture streaming: Enabled
+[2019.10.08-18.34.11:916][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.08-18.34.11:990][  0]LogInit: Transaction tracking system initialized
+[2019.10.08-18.34.12:025][  0]BlueprintLog: New page: Editor Load
+[2019.10.08-18.34.12:109][  0]LocalizationService: Localization service is disabled
+[2019.10.08-18.34.12:370][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/' took 0.01s
+[2019.10.08-18.34.12:371][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.08-18.34.12:371][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.08-18.34.12:569][  0]SourceControl: Source control is disabled
+[2019.10.08-18.34.12:569][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-18.34.12:570][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.10.08-18.34.12:570][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-18.34.12:570][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2019.10.08-18.34.12:570][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2019.10.08-18.34.12:687][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.12:695][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.12:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.12:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.12:719][  0]LogCollectionManager: Loaded 0 collections in 0.002161 seconds
+[2019.10.08-18.34.12:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Saved/Collections/' took 0.00s
+[2019.10.08-18.34.12:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Developers/MinxuHuang/Collections/' took 0.00s
+[2019.10.08-18.34.12:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Collections/' took 0.00s
+[2019.10.08-18.34.12:725][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.08-18.34.12:735][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2863 classes and 680 folders.
+[2019.10.08-18.34.12:742][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-18.34.12:791][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-18.34.12:797][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.08-18.34.12:810][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.08-18.34.12:812][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.08-18.34.12:818][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.08-18.34.12:904][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 9 NumSamples 1 (Frame:1).
+[2019.10.08-18.34.13:033][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.08-18.34.13:033][  0]LogLoad: (Engine Initialization) Total time: 8.23 seconds
+[2019.10.08-18.34.13:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.08-18.34.13:050][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.08-18.34.13:050][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.08-18.34.13:096][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.10.08-18.34.13:144][  1]LogAssetRegistry: Asset discovery search completed in 4.6776 seconds
+[2019.10.08-18.34.13:149][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.08-18.34.13:149][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.10.08-18.34.20:812][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.34.20:812][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.34.20:829][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.34.20:829][ 24]PIE: New page: PIE session: Untitled_0 (Oct 8, 2019, 10:34:20 AM)
+[2019.10.08-18.34.20:830][ 24]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.08-18.34.20:831][ 24]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.10.08-18.34.20:833][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001050s)
+[2019.10.08-18.34.20:834][ 24]LogAIModule: Creating AISystem for world Untitled
+[2019.10.08-18.34.20:834][ 24]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2019.10.08-18.34.20:834][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.002821s)
+[2019.10.08-18.34.20:885][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.08-18.34.20:983][ 24]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.34.21:002][ 24]LogInit: FAudioDevice initialized.
+[2019.10.08-18.34.21:014][ 24]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2019.10.08-18.34.21:014][ 24]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2019.10.08-18.34.21:014][ 24]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2019.10.08-18.34.21:014][ 24]LogLoad: Game class is 'GameModeBase'
+[2019.10.08-18.34.21:016][ 24]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2019.10.08-14.34.21
+[2019.10.08-18.34.21:016][ 24]LogWorld: Bringing up level for play took: 0.000573
+[2019.10.08-18.34.21:017][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.08-18.34.21:025][ 24]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.08-18.34.21:026][ 24]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.85
+[2019.10.08-18.34.22:265][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.22:265][168]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_0
+[2019.10.08-18.34.22:265][168]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.34.22:273][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.34.22:319][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.22:322][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.08-18.34.22:365][173]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.08-18.34.26:957][720]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-18.34.27:835][720]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Volley_Rhythm_Short...
+[2019.10.08-18.34.30:329][720]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 20526548 while cooking SoundWave /Game/Audio/Volley_Rhythm_Short.Volley_Rhythm_Short.
+[2019.10.08-18.34.30:362][720]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.34.30:426][720]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype.Prototype
+[2019.10.08-18.34.30:474][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.08-18.34.30:476][720]Cmd: MAP LOAD FILE="../../../../../../Users/MinxuHuang/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-18.34.30:476][720]LightingResults: New page: Lighting Build
+[2019.10.08-18.34.30:479][720]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.10.08-18.34.30:480][720]LoadErrors: New page: Loading map: Prototype.umap
+[2019.10.08-18.34.30:480][720]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.34.30:480][720]MapCheck: New page: Map Check
+[2019.10.08-18.34.30:480][720]LightingResults: New page: Lighting Build
+[2019.10.08-18.34.30:523][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.08-18.34.30:593][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-18.34.30:641][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.10.08-18.34.30:669][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-18.34.30:669][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.10.08-18.34.30:669][720]LogFileHelpers: Loading map 'Prototype' took 0.194
+[2019.10.08-18.34.41:873][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.34.41:946][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.34.41:961][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.34.41:961][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.34.41:961][271]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:34:41 AM)
+[2019.10.08-18.34.41:961][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.34.41:977][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015861s)
+[2019.10.08-18.34.41:978][271]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.34.41:978][271]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2019.10.08-18.34.41:979][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.017279s)
+[2019.10.08-18.34.42:020][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.10.08-18.34.42:108][271]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.34.42:128][271]LogInit: FAudioDevice initialized.
+[2019.10.08-18.34.42:134][271]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.34.42:141][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.34.42
+[2019.10.08-18.34.42:142][271]LogWorld: Bringing up level for play took: 0.007599
+[2019.10.08-18.34.42:142][271]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.08-18.34.42:145][271]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.34.42:153][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.023
+[2019.10.08-18.34.42:154][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.34.45:161][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.34.45:161][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.45:161][401]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.34.45:161][401]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.34.45:207][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.34.45:208][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.34.45:252][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.34.45:257][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.08-18.34.45:274][402]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.08-18.34.48:328][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.10.08-18.34.48:565][518]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.08-18.34.49:943][518]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.08-18.34.50:384][519]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.08-18.35.50:820][831]BlueprintLog: New page: Compile Farmer
+[2019.10.08-18.35.51:197][831]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.10.08-18.35.59:108][957]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.35.59:130][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.35.59:130][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.35.59:130][957]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:35:59 AM)
+[2019.10.08-18.35.59:130][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.35.59:146][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015607s)
+[2019.10.08-18.35.59:147][957]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.35.59:147][957]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.10.08-18.35.59:147][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016973s)
+[2019.10.08-18.35.59:197][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.10.08-18.35.59:285][957]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.35.59:301][957]LogInit: FAudioDevice initialized.
+[2019.10.08-18.35.59:306][957]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.35.59:313][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.35.59
+[2019.10.08-18.35.59:314][957]LogWorld: Bringing up level for play took: 0.007515
+[2019.10.08-18.35.59:314][957]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.08-18.35.59:317][957]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.35.59:324][957]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 1.148
+[2019.10.08-18.35.59:324][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.36.10:322][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.36.10:323][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.36.10:323][393]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.36.10:323][393]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.36.10:353][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.36.10:353][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.36.10:404][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.36.10:409][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.10.08-18.36.10:453][394]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.08-18.36.12:133][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.37.07:609][709]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.08-18.37.16:183][ 35]BlueprintLog: New page: Compile Farmer
+[2019.10.08-18.37.16:540][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.10.08-18.37.17:787][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.37.17:810][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.37.17:810][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.37.17:810][ 74]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:37:17 AM)
+[2019.10.08-18.37.17:810][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.37.17:826][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015680s)
+[2019.10.08-18.37.17:827][ 74]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.37.17:827][ 74]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2019.10.08-18.37.17:827][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016997s)
+[2019.10.08-18.37.17:881][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.10.08-18.37.17:968][ 74]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.37.17:984][ 74]LogInit: FAudioDevice initialized.
+[2019.10.08-18.37.17:995][ 74]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.37.18:002][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.37.18
+[2019.10.08-18.37.18:003][ 74]LogWorld: Bringing up level for play took: 0.007502
+[2019.10.08-18.37.18:003][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.08-18.37.18:006][ 74]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.37.18:013][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.164
+[2019.10.08-18.37.18:014][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.37.27:745][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.37.27:746][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.37.27:746][474]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.37.27:746][474]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.37.27:794][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.37.27:795][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.37.27:851][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.37.27:856][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.08-18.37.27:882][475]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.08-18.37.31:804][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.38.17:973][440]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.38.17:993][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.38.17:994][440]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.08-18.38.18:014][440]LogPlayLevel: [PlayLevel] Compiling Farmer before play...
+[2019.10.08-18.38.18:417][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.10.08-18.38.18:417][440]LogPlayLevel: PlayLevel: Blueprint regeneration took 423 ms (1 blueprints)
+[2019.10.08-18.38.18:418][440]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:38:18 AM)
+[2019.10.08-18.38.18:418][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.38.18:432][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014641s)
+[2019.10.08-18.38.18:433][440]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.38.18:434][440]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2019.10.08-18.38.18:434][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016032s)
+[2019.10.08-18.38.18:481][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.10.08-18.38.18:562][440]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.38.18:577][440]LogInit: FAudioDevice initialized.
+[2019.10.08-18.38.18:587][440]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.38.18:594][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.38.18
+[2019.10.08-18.38.18:595][440]LogWorld: Bringing up level for play took: 0.007117
+[2019.10.08-18.38.18:595][440]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.08-18.38.18:598][440]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.38.18:605][440]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.428
+[2019.10.08-18.38.18:605][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.38.24:762][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.38.24:763][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.38.24:763][674]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.38.24:763][674]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.38.24:815][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.38.24:815][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.38.24:868][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.38.24:873][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.10.08-18.38.24:904][675]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.08-18.38.26:191][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.39.12:028][645]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.12:324][646]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.39.12:620][647]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.39.12:675][647]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.12:929][648]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.39.13:220][649]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.08-18.39.13:611][654]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.39.14:071][662]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.14:422][664]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.14:773][667]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.39.15:080][668]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.08-18.39.15:419][670]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.39.15:778][673]LogEditorTransaction: Undo Create Reroute Node
+[2019.10.08-18.39.16:102][675]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.16:425][677]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.16:751][679]LogEditorTransaction: Undo Add Node
+[2019.10.08-18.39.17:076][681]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.39.17:383][682]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.17:695][683]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.39.18:075][687]LogEditorTransaction: Undo Add Node
+[2019.10.08-18.39.18:411][689]LogEditorTransaction: Undo Move Nodes
+[2019.10.08-18.39.18:737][691]LogEditorTransaction: Undo Resize Node
+[2019.10.08-18.39.19:068][693]LogEditorTransaction: Undo Rename Node
+[2019.10.08-18.39.19:400][695]LogEditorTransaction: Undo Add Node
+[2019.10.08-18.39.19:718][696]LogEditorTransaction: Undo Move Nodes
+[2019.10.08-18.39.20:072][698]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-18.39.20:464][703]LogEditorTransaction: Undo Move Nodes
+[2019.10.08-18.39.20:838][707]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.08-18.39.21:336][717]LogEditorTransaction: Undo Add Pin
+[2019.10.08-18.39.23:652][798]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.39.25:882][873]BlueprintLog: New page: Compile Farmer
+[2019.10.08-18.39.26:261][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.10.08-18.39.28:799][962]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.39.28:822][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.39.28:823][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.39.28:823][962]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:39:28 AM)
+[2019.10.08-18.39.28:823][962]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.39.28:838][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015360s)
+[2019.10.08-18.39.28:839][962]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.39.28:840][962]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2019.10.08-18.39.28:840][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016789s)
+[2019.10.08-18.39.28:890][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.10.08-18.39.28:980][962]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.39.29:009][962]LogInit: FAudioDevice initialized.
+[2019.10.08-18.39.29:014][962]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.39.29:021][962]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.39.29
+[2019.10.08-18.39.29:022][962]LogWorld: Bringing up level for play took: 0.007488
+[2019.10.08-18.39.29:022][962]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.08-18.39.29:025][962]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.39.29:032][962]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.855
+[2019.10.08-18.39.29:032][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.39.36:178][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.39.36:179][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.39.36:179][243]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.39.36:179][243]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.39.36:228][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.39.36:228][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.39.36:282][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.39.36:288][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.10.08-18.39.36:323][244]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.08-18.39.40:164][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.39.45:396][507]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Plants/TreeParent.TreeParent
+[2019.10.08-18.39.48:771][610]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.39.50:959][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.10.08-18.39.54:183][668]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.08-18.39.54:285][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.10.08-18.39.54:341][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.08-18.39.54:392][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.08-18.39.55:616][699]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Plants/TreeParents.TreeParents
+[2019.10.08-18.41.19:553][975]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.41.19:576][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.41.19:576][975]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.08-18.41.19:620][975]LogPlayLevel: [PlayLevel] Compiling TreeParents before play...
+[2019.10.08-18.41.19:620][975]LogPlayLevel: [PlayLevel]   Compiling AppleTree as a dependent...
+[2019.10.08-18.41.19:620][975]LogPlayLevel: [PlayLevel]   Compiling PumpkinTree as a dependent...
+[2019.10.08-18.41.19:620][975]LogPlayLevel: [PlayLevel]   Compiling WatermelonTree as a dependent...
+[2019.10.08-18.41.19:967][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.10.08-18.41.19:967][975]LogPlayLevel: PlayLevel: Blueprint regeneration took 391 ms (4 blueprints)
+[2019.10.08-18.41.19:967][975]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:41:19 AM)
+[2019.10.08-18.41.19:968][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.41.19:983][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014773s)
+[2019.10.08-18.41.19:984][975]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.41.19:984][975]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2019.10.08-18.41.19:984][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016094s)
+[2019.10.08-18.41.20:030][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.08-18.41.20:115][975]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.41.20:131][975]LogInit: FAudioDevice initialized.
+[2019.10.08-18.41.20:138][975]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.41.20:146][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.41.20
+[2019.10.08-18.41.20:147][975]LogWorld: Bringing up level for play took: 0.007423
+[2019.10.08-18.41.20:147][975]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.08-18.41.20:149][975]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.41.20:156][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.02
+[2019.10.08-18.41.20:157][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.41.41:011][804]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:0FAE
+[2019.10.08-18.41.41:012][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  SetActorTransform
+[2019.10.08-18.41.41:012][804]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:101B
+[2019.10.08-18.41.41:012][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  DetachFromActor
+[2019.10.08-18.41.41:012][804]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:107A
+[2019.10.08-18.41.41:012][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  AttachToActor
+[2019.10.08-18.41.41:518][824]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAttachedActors_OutActors' of length 0 in '/Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer'!
+[2019.10.08-18.41.41:518][824]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:1E95
+[2019.10.08-18.41.41:519][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  EventGraph Node:  Branch
+[2019.10.08-18.41.43:321][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAttachedActors_OutActors' of length 0 in '/Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer'!
+[2019.10.08-18.41.43:321][895]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:1E95
+[2019.10.08-18.41.43:321][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  EventGraph Node:  Branch
+[2019.10.08-18.41.46:504][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.41.46:505][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.41.46:505][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.41.46:505][ 20]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.41.46:558][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.41.46:558][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.41.46:610][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.41.46:617][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.10.08-18.41.46:625][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.08-18.41.46:670][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.08-18.41.48:663][ 96]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.41.48:693][ 96]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.41.51:373][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.42.17:416][212]LogEditorTransaction: Undo Move Node
+[2019.10.08-18.42.17:662][215]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.42.17:995][222]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.42.35:372][887]LogEditorTransaction: Undo Create Reroute Node
+[2019.10.08-18.42.37:081][946]BlueprintLog: New page: Compile TreeParents
+[2019.10.08-18.42.37:411][946]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.10.08-18.42.38:776][992]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.42.38:800][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.42.38:801][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.42.38:801][992]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:42:38 AM)
+[2019.10.08-18.42.38:801][992]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.42.38:816][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015073s)
+[2019.10.08-18.42.38:817][992]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.42.38:817][992]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.10.08-18.42.38:817][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016375s)
+[2019.10.08-18.42.38:866][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.10.08-18.42.39:007][992]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.42.39:023][992]LogInit: FAudioDevice initialized.
+[2019.10.08-18.42.39:035][992]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.42.39:042][992]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.42.39
+[2019.10.08-18.42.39:043][992]LogWorld: Bringing up level for play took: 0.007378
+[2019.10.08-18.42.39:043][992]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.08-18.42.39:046][992]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.42.39:053][992]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.876
+[2019.10.08-18.42.39:053][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.42.50:125][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.42.50:125][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.42.50:126][425]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.42.50:126][425]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.42.50:182][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.42.50:182][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.42.50:234][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.42.50:239][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.08-18.42.50:271][426]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.08-18.42.51:684][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.42.51:761][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.42.51:784][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.42.51:784][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.42.51:784][487]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:42:51 AM)
+[2019.10.08-18.42.51:784][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.42.51:800][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015682s)
+[2019.10.08-18.42.51:801][487]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.42.51:801][487]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2019.10.08-18.42.51:801][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.017014s)
+[2019.10.08-18.42.51:851][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.08-18.42.51:936][487]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.42.51:952][487]LogInit: FAudioDevice initialized.
+[2019.10.08-18.42.51:963][487]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.42.51:970][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.42.51
+[2019.10.08-18.42.51:971][487]LogWorld: Bringing up level for play took: 0.007350
+[2019.10.08-18.42.51:971][487]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.10.08-18.42.51:973][487]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.42.51:981][487]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.196
+[2019.10.08-18.42.51:981][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.10:751][226]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:0F77
+[2019.10.08-18.43.10:751][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  SetActorTransform
+[2019.10.08-18.43.10:751][226]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:0FE4
+[2019.10.08-18.43.10:751][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  DetachFromActor
+[2019.10.08-18.43.10:751][226]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1043
+[2019.10.08-18.43.10:751][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  AttachToActor
+[2019.10.08-18.43.15:381][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.15:382][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.43.15:382][405]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.43.15:382][405]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.43.15:434][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.43.15:434][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.15:487][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.43.15:493][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.10.08-18.43.15:501][405]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.08-18.43.15:544][406]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.08-18.43.17:548][481]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.43.17:578][481]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.43.23:838][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.43.30:284][961]BlueprintLog: New page: Compile TreeParents
+[2019.10.08-18.43.30:629][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.10.08-18.43.31:593][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.43.31:616][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.31:616][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.43.31:616][994]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:43:31 AM)
+[2019.10.08-18.43.31:617][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.43.31:632][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015598s)
+[2019.10.08-18.43.31:633][994]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.43.31:634][994]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.10.08-18.43.31:634][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016988s)
+[2019.10.08-18.43.31:686][994]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.10.08-18.43.31:771][994]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.43.31:786][994]LogInit: FAudioDevice initialized.
+[2019.10.08-18.43.31:801][994]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.43.31:819][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.43.31
+[2019.10.08-18.43.31:821][994]LogWorld: Bringing up level for play took: 0.018172
+[2019.10.08-18.43.31:821][994]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.10.08-18.43.31:824][994]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.43.31:833][994]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.344
+[2019.10.08-18.43.31:833][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.48:717][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.43.56:913][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.56:913][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.43.56:913][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.43.56:914][963]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.43.56:964][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.43.56:964][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.57:019][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.43.57:025][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.08-18.43.57:067][964]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.08-18.43.58:114][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.43.58:164][  8]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.43.58:197][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.43.58:197][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.43.58:197][  8]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:43:58 AM)
+[2019.10.08-18.43.58:197][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.43.58:212][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015208s)
+[2019.10.08-18.43.58:213][  8]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.43.58:214][  8]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2019.10.08-18.43.58:214][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016629s)
+[2019.10.08-18.43.58:263][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.08-18.43.58:374][  8]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.43.58:389][  8]LogInit: FAudioDevice initialized.
+[2019.10.08-18.43.58:397][  8]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.43.58:404][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.43.58
+[2019.10.08-18.43.58:405][  8]LogWorld: Bringing up level for play took: 0.007429
+[2019.10.08-18.43.58:405][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.08-18.43.58:407][  8]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.43.58:415][  8]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.238
+[2019.10.08-18.43.58:415][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.44.17:471][757]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:0F77
+[2019.10.08-18.44.17:471][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  SetActorTransform
+[2019.10.08-18.44.17:471][757]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:0FE4
+[2019.10.08-18.44.17:471][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  DetachFromActor
+[2019.10.08-18.44.17:471][757]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_3
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1043
+[2019.10.08-18.44.17:471][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_3". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  AttachToActor
+[2019.10.08-18.44.18:085][781]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAttachedActors_OutActors' of length 0 in '/Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer'!
+[2019.10.08-18.44.18:085][781]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:1E95
+[2019.10.08-18.44.18:086][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  EventGraph Node:  Branch
+[2019.10.08-18.44.22:582][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.44.22:582][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.44.22:582][957]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.44.22:583][957]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.44.22:637][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.44.22:637][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.44.22:692][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.44.22:698][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.08-18.44.22:706][957]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.08-18.44.22:751][958]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.08-18.44.24:206][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.44.24:236][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.10.08-18.44.25:141][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.45.15:073][999]BlueprintLog: New page: Compile TreeParents
+[2019.10.08-18.45.15:395][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.10.08-18.45.17:114][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.45.17:138][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.45.17:138][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.45.17:138][ 60]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:45:17 AM)
+[2019.10.08-18.45.17:138][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.45.17:154][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015425s)
+[2019.10.08-18.45.17:155][ 60]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.45.17:155][ 60]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2019.10.08-18.45.17:155][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016778s)
+[2019.10.08-18.45.17:210][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.10.08-18.45.17:293][ 60]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.45.17:309][ 60]LogInit: FAudioDevice initialized.
+[2019.10.08-18.45.17:318][ 60]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.45.17:325][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.45.17
+[2019.10.08-18.45.17:326][ 60]LogWorld: Bringing up level for play took: 0.007291
+[2019.10.08-18.45.17:326][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.10.08-18.45.17:329][ 60]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.45.17:344][ 60]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 1.167
+[2019.10.08-18.45.17:345][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.45.34:109][730]LogScript: Warning: Script Msg: Attempted to set an invalid index on array FuitsOnTree [2/1]!
+[2019.10.08-18.46.13:876][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.47.52:205][333]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 9 NumSamples 1 (Frame:1).
+[2019.10.08-18.50.05:314][432]Cmd: TRANSACTION UNDO
+[2019.10.08-18.50.05:314][432]LogEditorTransaction: Undo Create Reroute Node
+[2019.10.08-18.50.06:906][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.06:907][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.50.06:907][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.50.06:907][484]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.50.06:940][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.50.06:940][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.06:997][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.50.07:004][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.10.08-18.50.07:038][485]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.08-18.50.10:928][662]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.50.10:951][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.10:951][662]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.08-18.50.10:964][662]LogPlayLevel: [PlayLevel] Compiling TreeParents before play...
+[2019.10.08-18.50.10:964][662]LogPlayLevel: [PlayLevel]   Compiling AppleTree as a dependent...
+[2019.10.08-18.50.10:964][662]LogPlayLevel: [PlayLevel]   Compiling PumpkinTree as a dependent...
+[2019.10.08-18.50.10:964][662]LogPlayLevel: [PlayLevel]   Compiling WatermelonTree as a dependent...
+[2019.10.08-18.50.11:314][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.10.08-18.50.11:315][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (4 blueprints)
+[2019.10.08-18.50.11:315][662]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:50:11 AM)
+[2019.10.08-18.50.11:315][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.50.11:330][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015375s)
+[2019.10.08-18.50.11:331][662]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.50.11:332][662]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2019.10.08-18.50.11:332][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016697s)
+[2019.10.08-18.50.11:382][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.08-18.50.11:465][662]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.50.11:482][662]LogInit: FAudioDevice initialized.
+[2019.10.08-18.50.11:497][662]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.50.11:512][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.50.11
+[2019.10.08-18.50.11:514][662]LogWorld: Bringing up level for play took: 0.016862
+[2019.10.08-18.50.11:515][662]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.10.08-18.50.11:521][662]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.50.11:539][662]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 1.363
+[2019.10.08-18.50.11:539][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.28:294][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array FuitsOnTree [2/1]!
+[2019.10.08-18.50.49:095][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.49:095][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.50.49:096][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.50.49:096][133]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.50.49:149][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.50.49:149][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.50.49:220][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.50.49:226][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.08-18.50.49:259][134]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.08-18.50.55:299][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.51.15:484][178]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.51.15:509][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.15:509][178]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.08-18.51.15:523][178]LogPlayLevel: [PlayLevel] Compiling TreeParents before play...
+[2019.10.08-18.51.15:523][178]LogPlayLevel: [PlayLevel]   Compiling AppleTree as a dependent...
+[2019.10.08-18.51.15:523][178]LogPlayLevel: [PlayLevel]   Compiling PumpkinTree as a dependent...
+[2019.10.08-18.51.15:523][178]LogPlayLevel: [PlayLevel]   Compiling WatermelonTree as a dependent...
+[2019.10.08-18.51.15:925][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.10.08-18.51.15:925][178]LogPlayLevel: PlayLevel: Blueprint regeneration took 416 ms (4 blueprints)
+[2019.10.08-18.51.15:925][178]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:51:15 AM)
+[2019.10.08-18.51.15:925][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.51.15:941][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015460s)
+[2019.10.08-18.51.15:942][178]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.51.15:942][178]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2019.10.08-18.51.15:942][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016832s)
+[2019.10.08-18.51.15:989][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.08-18.51.16:072][178]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.51.16:087][178]LogInit: FAudioDevice initialized.
+[2019.10.08-18.51.16:093][178]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.51.16:100][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.51.16
+[2019.10.08-18.51.16:101][178]LogWorld: Bringing up level for play took: 0.007258
+[2019.10.08-18.51.16:101][178]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.10.08-18.51.16:104][178]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.51.16:111][178]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.065
+[2019.10.08-18.51.16:111][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.25:167][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.25:167][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.51.25:167][531]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.51.25:168][531]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.51.25:216][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.51.25:216][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.25:271][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.51.25:277][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.10.08-18.51.25:312][532]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.08-18.51.31:907][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.51.31:959][764]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.51.31:982][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.31:982][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.08-18.51.31:982][764]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:51:31 AM)
+[2019.10.08-18.51.31:982][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.51.31:998][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015153s)
+[2019.10.08-18.51.31:999][764]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.51.31:999][764]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2019.10.08-18.51.31:999][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.016447s)
+[2019.10.08-18.51.32:048][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.10.08-18.51.32:153][764]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.51.32:169][764]LogInit: FAudioDevice initialized.
+[2019.10.08-18.51.32:180][764]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.51.32:187][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.51.32
+[2019.10.08-18.51.32:188][764]LogWorld: Bringing up level for play took: 0.007262
+[2019.10.08-18.51.32:188][764]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.10.08-18.51.32:191][764]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.51.32:198][764]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.021
+[2019.10.08-18.51.32:198][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.59:604][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.59:604][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.51.59:604][843]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.51.59:604][843]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-18.51.59:653][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-18.51.59:653][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.51.59:707][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-18.51.59:714][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.08-18.51.59:748][844]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.08-18.52.01:653][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-18.52.10:797][285]LogEditorTransaction: Undo Delete current selection
+[2019.10.08-18.52.11:455][305]LogEditorTransaction: Undo Create Reroute Node
+[2019.10.08-18.52.32:400][100]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.08-18.52.32:424][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.52.32:424][100]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.08-18.52.32:438][100]LogPlayLevel: [PlayLevel] Compiling TreeParents before play...
+[2019.10.08-18.52.32:438][100]LogPlayLevel: [PlayLevel]   Compiling AppleTree as a dependent...
+[2019.10.08-18.52.32:438][100]LogPlayLevel: [PlayLevel]   Compiling PumpkinTree as a dependent...
+[2019.10.08-18.52.32:438][100]LogPlayLevel: [PlayLevel]   Compiling WatermelonTree as a dependent...
+[2019.10.08-18.52.32:790][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.10.08-18.52.32:790][100]LogPlayLevel: PlayLevel: Blueprint regeneration took 367 ms (4 blueprints)
+[2019.10.08-18.52.32:791][100]PIE: New page: PIE session: Prototype (Oct 8, 2019, 10:52:32 AM)
+[2019.10.08-18.52.32:791][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.08-18.52.32:807][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016262s)
+[2019.10.08-18.52.32:808][100]LogAIModule: Creating AISystem for world Prototype
+[2019.10.08-18.52.32:808][100]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.10.08-18.52.32:808][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.017532s)
+[2019.10.08-18.52.32:855][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.08-18.52.32:952][100]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.10.08-18.52.32:980][100]LogInit: FAudioDevice initialized.
+[2019.10.08-18.52.32:987][100]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.08-18.52.33:004][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.08-14.52.33
+[2019.10.08-18.52.33:006][100]LogWorld: Bringing up level for play took: 0.017981
+[2019.10.08-18.52.33:007][100]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.10.08-18.52.33:012][100]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.08-18.52.33:024][100]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.848
+[2019.10.08-18.52.33:024][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.08-18.52.53:587][817]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FruitApple_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.FruitApple_C_202
+	Function /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent_C:ReceiveActorBeginOverlap:0026
+[2019.10.08-18.52.53:587][817]PIE: Error: Infinite loop detected. Blueprint:  FruitParent Function:  Event ActorBeginOverlap Call Stack:  Show
+[2019.10.08-18.52.56:321][817]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FruitApple_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.FruitApple_C_204
+	Function /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent_C:ReceiveActorBeginOverlap:0026
+[2019.10.08-18.52.56:321][817]PIE: Error: Infinite loop detected. Blueprint:  FruitParent Function:  Event ActorBeginOverlap Call Stack:  Show
+[2019.10.08-18.52.59:817][817]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FruitApple_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.FruitApple_C_317
+	Function /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent_C:ReceiveActorBeginOverlap:0026
+[2019.10.08-18.52.59:817][817]PIE: Error: Infinite loop detected. Blueprint:  FruitParent Function:  Event ActorBeginOverlap Call Stack:  Show
+[2019.10.08-18.53.03:621][817]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FruitApple_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.FruitApple_C_389
+	Function /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent_C:ExecuteUbergraph_FruitParent:000A
+[2019.10.08-18.53.03:622][817]PIE: Error: Infinite loop detected. Blueprint:  FruitParent Function:  Event ActorBeginOverlap Call Stack:  Show
