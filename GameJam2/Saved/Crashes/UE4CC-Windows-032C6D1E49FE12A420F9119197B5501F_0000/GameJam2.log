@@ -1,0 +1,1818 @@
+﻿Log file open, 10/09/19 16:29:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.050243
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.09-20.29.24:417][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:418][  0]LogConfig: Setting CVar [[p.EnableMultiplayerWorldOriginRebasing:0]]
+[2019.10.09-20.29.24:418][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:419][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.09-20.29.24:419][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.09-20.29.24:420][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.09-20.29.24:420][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.09-20.29.24:420][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.09-20.29.24:422][  0]LogHAL: Display: Platform has ~ 16 GB [17125285888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.09-20.29.24:422][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.09-20.29.24:422][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.09-20.29.24:422][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Scalability.ini]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.09-20.29.24:423][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Config/Windows/Engine.ini]
+[2019.10.09-20.29.24:423][  0]LogInit: Computer: DESKTOP-FVJC0L3
+[2019.10.09-20.29.24:423][  0]LogInit: User: Daimenion
+[2019.10.09-20.29.24:423][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.09-20.29.24:423][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.09-20.29.24:423][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.09-20.29.24:423][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.09-20.29.24:423][  0]LogMemory: Process Physical Memory: 101.93 MB used, 101.93 MB peak
+[2019.10.09-20.29.24:423][  0]LogMemory: Process Virtual Memory: 101.76 MB used, 101.76 MB peak
+[2019.10.09-20.29.24:423][  0]LogMemory: Physical Memory: 4537.17 MB used,  11794.78 MB free, 16331.95 MB total
+[2019.10.09-20.29.24:423][  0]LogMemory: Virtual Memory: 4701.22 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.10.09-20.29.24:426][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.09-20.29.24:440][  0]LogInit: Using OS detected language (en-US).
+[2019.10.09-20.29.24:440][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.09-20.29.24:441][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.09-20.29.24:559][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.09-20.29.24:583][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.09-20.29.24:583][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.09-20.29.24:694][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.09-20.29.24:694][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.09-20.29.24:748][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.10.09-20.29.24:748][  0]LogD3D11RHI:       8079/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.09-20.29.24:750][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.09-20.29.24:750][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.09-20.29.24:750][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.09-20.29.24:757][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.09-20.29.24:757][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.09-20.29.24:757][  0]LogWindows: EnumDisplayDevices:
+[2019.10.09-20.29.24:757][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.10.09-20.29.24:757][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.10.09-20.29.24:758][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.10.09-20.29.24:758][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.10.09-20.29.24:758][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.09-20.29.24:758][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.10.09-20.29.24:758][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.10.09-20.29.24:758][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.10.09-20.29.24:758][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.10.09-20.29.24:796][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.09-20.29.24:813][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.09-20.29.25:090][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.09-20.29.25:096][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.09-20.29.25:102][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.09-20.29.25:107][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.09-20.29.25:113][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.09-20.29.25:119][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.09-20.29.25:125][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.09-20.29.25:130][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.09-20.29.25:133][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.09-20.29.25:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.09-20.29.25:157][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.09-20.29.25:169][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.09-20.29.25:169][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.09-20.29.25:179][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.09-20.29.25:179][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.09-20.29.25:184][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.09-20.29.25:189][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.09-20.29.25:194][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.09-20.29.25:199][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.09-20.29.25:216][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.09-20.29.25:216][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.09-20.29.25:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.09-20.29.25:221][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.09-20.29.25:254][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Intermediate/Shaders/WorkingDirectory/11968/).
+[2019.10.09-20.29.25:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daimenion/AppData/Local/Temp/UnrealShaderWorkingDir/63489C0C40A6774223BE29BB93D58EB8/'.
+[2019.10.09-20.29.25:255][  0]LogXGEController: Cleaning working directory: C:/Users/Daimenion/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.09-20.29.25:256][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.09-20.29.25:256][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.09-20.29.25:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.09-20.29.25:710][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Daimenion/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daimenion/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.09-20.29.25:750][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.09-20.29.25:759][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.09-20.29.25:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.09-20.29.25:759][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.09-20.29.25:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daimenion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.09-20.29.25:760][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.09-20.29.25:760][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.09-20.29.25:775][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.09-20.29.25:777][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.09-20.29.25:778][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.09-20.29.25:815][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.10.09-20.29.26:003][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.09-20.29.26:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.09-20.29.26:109][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.09-20.29.26:109][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.09-20.29.26:109][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.09-20.29.26:109][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.09-20.29.26:115][  0]LogNetVersion: GameJam2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 950447696)
+[2019.10.09-20.29.26:422][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.037620 seconds
+[2019.10.09-20.29.26:428][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.09-20.29.26:428][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.09-20.29.26:428][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.09-20.29.26:994][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.09-20.29.26:996][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.09-20.29.27:030][  0]SourceControl: Source control is disabled
+[2019.10.09-20.29.27:030][  0]SourceControl: Source control is disabled
+[2019.10.09-20.29.27:031][  0]SourceControl: Source control is disabled
+[2019.10.09-20.29.27:031][  0]SourceControl: Source control is disabled
+[2019.10.09-20.29.27:087][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.09-20.29.27:172][  0]LogOcInput: OculusInput pre-init called
+[2019.10.09-20.29.27:176][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.09-20.29.27:176][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.09-20.29.27:223][  0]LogEngine: Initializing Engine...
+[2019.10.09-20.29.27:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.09-20.29.27:224][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.09-20.29.27:390][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.09-20.29.27:399][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.09-20.29.27:415][  0]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.29.27:441][  0]LogInit: FAudioDevice initialized.
+[2019.10.09-20.29.27:441][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.09-20.29.27:508][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/Daimenion/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.09-20.29.27:515][  0]LogInit: Texture streaming: Enabled
+[2019.10.09-20.29.27:525][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.09-20.29.27:562][  0]LogInit: Transaction tracking system initialized
+[2019.10.09-20.29.27:578][  0]BlueprintLog: New page: Editor Load
+[2019.10.09-20.29.27:618][  0]LocalizationService: Localization service is disabled
+[2019.10.09-20.29.27:765][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.09-20.29.27:765][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.09-20.29.27:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/' took 0.00s
+[2019.10.09-20.29.27:877][  0]SourceControl: Source control is disabled
+[2019.10.09-20.29.27:878][  0]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.29.27:878][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.10.09-20.29.27:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.29.27:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2019.10.09-20.29.27:878][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.000
+[2019.10.09-20.29.27:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.29.27:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.29.27:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.29.27:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.29.27:990][  0]LogCollectionManager: Loaded 0 collections in 0.000796 seconds
+[2019.10.09-20.29.27:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Collections/' took 0.00s
+[2019.10.09-20.29.27:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Developers/Daimenion/Collections/' took 0.00s
+[2019.10.09-20.29.27:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Collections/' took 0.00s
+[2019.10.09-20.29.27:994][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.09-20.29.28:000][  0]LogContentBrowser: Native class hierarchy populated in 0.0056 seconds. Added 2863 classes and 680 folders.
+[2019.10.09-20.29.28:003][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.10.09-20.29.28:029][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.09-20.29.28:032][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.09-20.29.28:042][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.09-20.29.28:043][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.09-20.29.28:046][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.09-20.29.28:093][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.09-20.29.28:144][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.09-20.29.28:144][  0]LogLoad: (Engine Initialization) Total time: 4.49 seconds
+[2019.10.09-20.29.28:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.09-20.29.28:165][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.09-20.29.28:172][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.09-20.29.29:166][112]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.09-20.29.30:005][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.29.38:495][227]LogAssetRegistry: Asset discovery search completed in 12.6807 seconds
+[2019.10.09-20.29.38:498][227]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.09-20.29.38:498][227]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.10.09-20.29.44:405][861]LogTexture: Display: Building textures: Wood (BGRA8, 1500X1957)
+[2019.10.09-20.29.44:405][861]LogTexture: Display: Building textures: WoodNormal (BGRA8, 1500X1957)
+[2019.10.09-20.29.44:405][861]LogStaticMesh: Building static mesh HayCart...
+[2019.10.09-20.29.44:563][861]LogStaticMesh: Built static mesh [0.15s] /Game/Art/Models/cart/HayCart.HayCart
+[2019.10.09-20.29.44:624][861]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.09-20.29.44:736][861]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.09-20.29.44:739][861]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.29.44:768][861]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype.Prototype
+[2019.10.09-20.29.44:801][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.09-20.29.44:802][861]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.29.44:802][861]LightingResults: New page: Lighting Build
+[2019.10.09-20.29.44:804][861]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.10.09-20.29.44:805][861]LoadErrors: New page: Loading map: Prototype.umap
+[2019.10.09-20.29.44:805][861]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.29.44:805][861]MapCheck: New page: Map Check
+[2019.10.09-20.29.44:805][861]LightingResults: New page: Lighting Build
+[2019.10.09-20.29.44:827][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.09-20.29.44:860][861]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.09-20.29.44:886][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.09-20.29.44:908][861]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.29.44:908][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2019.10.09-20.29.44:908][861]LogFileHelpers: Loading map 'Prototype' took 0.107
+[2019.10.09-20.29.55:792][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.10.09-20.29.55:909][904]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.09-20.29.56:506][904]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.09-20.29.56:755][905]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.09-20.29.58:394][ 64]LogSlate: Window 'Farmer' being destroyed
+[2019.10.09-20.29.58:397][ 64]LogSlate: Window 'Farmer' being destroyed
+[2019.10.09-20.29.58:398][ 64]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.02:185][445]LogMaterial: Display: Missing cached shader map for material yellow, compiling. 
+[2019.10.09-20.30.02:225][445]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.09-20.30.02:237][445]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.09-20.30.02:237][445]LogMaterial: Display: Missing cached shader map for material brown, compiling. 
+[2019.10.09-20.30.02:248][445]LogMaterial: Display: Missing cached shader map for material green, compiling. 
+[2019.10.09-20.30.02:263][445]LogMaterial: Display: Missing cached shader map for material blue, compiling. 
+[2019.10.09-20.30.02:286][445]LogAIModule: Creating AISystem for world Prototype1
+[2019.10.09-20.30.02:336][445]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype1.Prototype1
+[2019.10.09-20.30.02:379][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.10.09-20.30.02:381][445]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.30.02:381][445]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.02:382][445]LoadErrors: New page: Loading map: Prototype1.umap
+[2019.10.09-20.30.02:383][445]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.02:384][445]MapCheck: New page: Map Check
+[2019.10.09-20.30.02:384][445]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.02:423][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.10.09-20.30.02:485][445]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2019.10.09-20.30.02:486][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.09-20.30.02:523][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.10.09-20.30.02:554][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.30.02:556][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.004ms to complete.
+[2019.10.09-20.30.02:556][445]LogFileHelpers: Loading map 'Prototype1' took 0.177
+[2019.10.09-20.30.02:848][457]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 78
+[2019.10.09-20.30.02:998][473]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 68
+[2019.10.09-20.30.03:049][478]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2019.10.09-20.30.03:626][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2019.10.09-20.30.03:741][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:741][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:742][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:742][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:743][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:743][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:745][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:745][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:745][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:745][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:746][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:746][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:747][547]LogLinker: Warning: Failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:747][547]LogLinker: Warning: Failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:747][547]LogLinker: Warning: Failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:747][547]LogLinker: Warning: Failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:747][547]LogLinker: Warning: Failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:748][547]LogLinker: Warning: Failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:777][547]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2019.10.09-20.30.03:777][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:777][547]LoadErrors: Failed to load /Game/Art/cart/HayCart.HayCart Referenced by HayCart2
+[2019.10.09-20.30.03:777][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/cart/HayCart': Can't find file.
+[2019.10.09-20.30.03:777][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:778][547]LoadErrors: Failed to load /Game/Art/WesternCliffs/Meshes/RockLSmall_Object001.RockLSmall_Object001 Referenced by RockLSmall_Object001_5
+[2019.10.09-20.30.03:778][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/WesternCliffs/Meshes/RockLSmall_Object001': Can't find file.
+[2019.10.09-20.30.03:778][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:778][547]LoadErrors: Failed to load /Game/Art/tractor/Tractor__Low_Poly_.Tractor__Low_Poly_ Referenced by Tractor__Low_Poly__2
+[2019.10.09-20.30.03:778][547]LogLinker: Warning: While loading 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap' failed to load '/Game/Art/tractor/Tractor__Low_Poly_': Can't find file.
+[2019.10.09-20.30.03:787][547]LogAIModule: Creating AISystem for world Prototype2
+[2019.10.09-20.30.03:827][547]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2019.10.09-20.30.03:827][547]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2019.10.09-20.30.03:844][547]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype2.Prototype2
+[2019.10.09-20.30.03:881][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.10.09-20.30.03:882][547]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.30.03:882][547]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.03:883][547]LoadErrors: New page: Loading map: Prototype2.umap
+[2019.10.09-20.30.03:884][547]LogWorld: UWorld::CleanupWorld for Prototype1, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.03:885][547]MapCheck: New page: Map Check
+[2019.10.09-20.30.03:885][547]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.03:924][547]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.10.09-20.30.03:992][547]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.09-20.30.04:029][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.10.09-20.30.04:060][547]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.30.04:068][547]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.561ms to complete.
+[2019.10.09-20.30.04:068][547]LogFileHelpers: Loading map 'Prototype2' took 0.187
+[2019.10.09-20.30.05:248][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2019.10.09-20.30.05:334][678]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2019.10.09-20.30.05:357][680]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2019.10.09-20.30.05:576][704]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2019.10.09-20.30.06:066][758]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2019.10.09-20.30.06:149][768]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2019.10.09-20.30.06:241][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2019.10.09-20.30.06:241][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2019.10.09-20.30.06:307][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2019.10.09-20.30.06:315][774]LogAIModule: Creating AISystem for world Prototype1
+[2019.10.09-20.30.06:362][774]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype1.Prototype1
+[2019.10.09-20.30.06:393][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2019.10.09-20.30.06:399][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.10.09-20.30.06:401][774]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.30.06:401][774]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.06:402][774]LoadErrors: New page: Loading map: Prototype1.umap
+[2019.10.09-20.30.06:404][774]LogWorld: UWorld::CleanupWorld for Prototype2, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.06:405][774]MapCheck: New page: Map Check
+[2019.10.09-20.30.06:405][774]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.06:445][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.10.09-20.30.06:511][774]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.09-20.30.06:547][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.10.09-20.30.06:573][774]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.30.06:576][774]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.897ms to complete.
+[2019.10.09-20.30.06:576][774]LogFileHelpers: Loading map 'Prototype1' took 0.176
+[2019.10.09-20.30.06:739][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.09-20.30.06:835][796]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2019.10.09-20.30.06:910][804]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2019.10.09-20.30.07:021][815]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.10.09-20.30.14:302][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.30.14:529][701]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.30.14:552][701]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prototype.Prototype
+[2019.10.09-20.30.14:581][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.09-20.30.14:582][701]Cmd: MAP LOAD FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Maps/Prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.09-20.30.14:582][701]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.14:582][701]LoadErrors: New page: Loading map: Prototype.umap
+[2019.10.09-20.30.14:583][701]LogWorld: UWorld::CleanupWorld for Prototype1, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.14:583][701]MapCheck: New page: Map Check
+[2019.10.09-20.30.14:583][701]LightingResults: New page: Lighting Build
+[2019.10.09-20.30.14:608][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.09-20.30.14:641][701]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.09-20.30.14:672][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.09-20.30.14:688][701]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.09-20.30.14:689][701]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2019.10.09-20.30.14:689][701]LogFileHelpers: Loading map 'Prototype' took 0.107
+[2019.10.09-20.30.19:852][309]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid8)
+[2019.10.09-20.30.21:124][447]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid2)
+[2019.10.09-20.30.22:560][603]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid)
+[2019.10.09-20.30.23:331][684]LogEditorViewport: Clicking on Actor (LMB): AudioController_C (AudioController)
+[2019.10.09-20.30.27:579][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.30.27:681][150]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.30.27:690][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.27:690][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.30.27:690][150]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:30:27 PM)
+[2019.10.09-20.30.27:691][150]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.09-20.30.27:692][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.30.27:699][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007223s)
+[2019.10.09-20.30.27:700][150]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.30.27:700][150]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2019.10.09-20.30.27:700][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.008068s)
+[2019.10.09-20.30.27:725][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.09-20.30.27:736][150]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.30.27:744][150]LogInit: FAudioDevice initialized.
+[2019.10.09-20.30.27:751][150]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.30.27:755][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.30.27
+[2019.10.09-20.30.27:755][150]LogWorld: Bringing up level for play took: 0.002680
+[2019.10.09-20.30.27:755][150]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.09-20.30.27:759][150]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.09-20.30.27:759][150]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.30.27:761][150]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.09-20.30.27:761][150]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.09-20.30.27:764][150]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.585
+[2019.10.09-20.30.27:764][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.30:837][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.30:838][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.30.30:838][467]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.30.30:838][467]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.30.30:852][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.30.30:852][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.30:889][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.30.30:918][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.09-20.30.30:946][469]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.09-20.30.32:021][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.30.34:013][772]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent
+[2019.10.09-20.30.44:121][820]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.30.44:133][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.44:133][820]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-20.30.44:151][820]LogPlayLevel: [PlayLevel] Compiling FruitParent before play...
+[2019.10.09-20.30.44:152][820]LogPlayLevel: [PlayLevel]   Compiling FruitApple as a dependent...
+[2019.10.09-20.30.44:152][820]LogPlayLevel: [PlayLevel]   Compiling FruitPumpkin as a dependent...
+[2019.10.09-20.30.44:152][820]LogPlayLevel: [PlayLevel]   Compiling FruitWatermelon as a dependent...
+[2019.10.09-20.30.44:372][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.10.09-20.30.44:372][820]LogPlayLevel: PlayLevel: Blueprint regeneration took 238 ms (4 blueprints)
+[2019.10.09-20.30.44:372][820]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:30:44 PM)
+[2019.10.09-20.30.44:372][820]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.30.44:379][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007152s)
+[2019.10.09-20.30.44:380][820]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.30.44:380][820]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.10.09-20.30.44:380][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007890s)
+[2019.10.09-20.30.44:406][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.09-20.30.44:417][820]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.30.44:424][820]LogInit: FAudioDevice initialized.
+[2019.10.09-20.30.44:432][820]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.30.44:435][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.30.44
+[2019.10.09-20.30.44:435][820]LogWorld: Bringing up level for play took: 0.002503
+[2019.10.09-20.30.44:435][820]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.09-20.30.44:437][820]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.30.44:440][820]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 1.262
+[2019.10.09-20.30.44:441][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.30.55:468][ 90]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.04:072][ 71]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.04:082][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.04:090][ 73]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.08:885][613]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.31.08:886][613]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.31.08:886][613]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.31.08:886][613]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.31.14:286][224]LogScript: Warning: Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.31.14:286][224]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.31.16:327][452]LogScript: Warning: Attempted to access FruitApple_C_5 via property K2Node_Event_OtherActor_1, but FruitApple_C_5 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.31.16:327][452]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_5 via property K2Node_Event_OtherActor_1, but FruitApple_C_5 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.31.26:299][587]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.26:307][588]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.26:317][589]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.31.27:910][758]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.31.31:337][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.32.05:404][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.32.05:404][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.32.05:404][748]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.32.05:404][748]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.32.05:419][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.32.05:420][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.32.05:452][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.32.05:456][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.09-20.32.05:505][751]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.09-20.32.07:007][918]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.32.07:011][918]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.32.11:090][315]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B16D25138-45E3-CD3C-BA05-2AB9B025445C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8ee145a64453f4c42a6f5fb2527ef84e%7Cfac9141777524d24865d987bdc466159%7C2b1b7c04-00ac-4eab-aac7-3b6a1714af54&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: request failed, libcurl error: 0 (No error)
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2c06fe77f70 [can pipeline])
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.212.249.236) port 443 (#0))
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.09-20.32.28:246][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.09-20.32.28:247][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.09-20.32.28:247][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.09-20.32.28:247][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 7 (Closing connection 0)
+[2019.10.09-20.32.28:247][612]LogHttp: Warning: 000002C0259D2700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.09-20.32.28:247][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B16D25138-45E3-CD3C-BA05-2AB9B025445C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8ee145a64453f4c42a6f5fb2527ef84e%7Cfac9141777524d24865d987bdc466159%7C2b1b7c04-00ac-4eab-aac7-3b6a1714af54&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.09-20.32.28:864][662]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Plants/Seed.Seed
+[2019.10.09-20.33.15:379][576]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.33.15:396][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.33.15:396][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.33.15:396][576]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:33:15 PM)
+[2019.10.09-20.33.15:396][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.33.15:404][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007498s)
+[2019.10.09-20.33.15:405][576]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.33.15:405][576]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.10.09-20.33.15:405][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.008258s)
+[2019.10.09-20.33.15:434][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.09-20.33.15:444][576]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.33.15:451][576]LogInit: FAudioDevice initialized.
+[2019.10.09-20.33.15:458][576]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.33.15:461][576]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.33.15
+[2019.10.09-20.33.15:461][576]LogWorld: Bringing up level for play took: 0.002538
+[2019.10.09-20.33.15:461][576]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.09-20.33.15:463][576]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.33.15:468][576]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.29
+[2019.10.09-20.33.15:468][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.33.24:912][695]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.24:921][696]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.24:929][697]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.40:373][522]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.33.40:373][522]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.33.40:373][522]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.33.40:373][522]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.33.43:595][897]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.43:603][898]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.43:612][899]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.33.51:583][819]LogScript: Warning: Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.33.51:584][819]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.33.59:104][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.33.59:104][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.33.59:104][702]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.33.59:104][702]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.33.59:132][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.33.59:132][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.33.59:168][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.33.59:172][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.09-20.33.59:179][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.33.59:205][704]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.09-20.34.01:138][911]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.34.01:150][911]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.34.02:185][960]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.35.17:468][540]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.35.17:683][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.09-20.35.19:817][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.35.19:862][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.35.19:891][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.35.19:891][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.35.19:891][753]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:35:19 PM)
+[2019.10.09-20.35.19:891][753]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.35.19:898][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007093s)
+[2019.10.09-20.35.19:899][753]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.35.19:899][753]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.10.09-20.35.19:899][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007839s)
+[2019.10.09-20.35.19:929][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.09-20.35.19:940][753]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.35.19:947][753]LogInit: FAudioDevice initialized.
+[2019.10.09-20.35.19:952][753]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.35.19:955][753]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.35.19
+[2019.10.09-20.35.19:955][753]LogWorld: Bringing up level for play took: 0.002598
+[2019.10.09-20.35.19:955][753]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.10.09-20.35.19:957][753]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.35.19:961][753]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.782
+[2019.10.09-20.35.19:961][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.35.31:892][136]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.35.31:900][137]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.35.31:909][138]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.35.37:738][798]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.35.37:747][799]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.35.44:883][605]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.35.44:883][605]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.35.44:883][605]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.35.44:884][605]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.35.50:454][230]LogScript: Warning: Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.35.50:454][230]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.36.00:683][399]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.36.02:493][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.36.02:493][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.36.02:494][604]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.36.02:494][604]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.36.02:514][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.36.02:515][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.36.02:548][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.36.02:553][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.09-20.36.02:560][604]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.36.02:594][607]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.09-20.36.05:906][974]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.36.05:919][974]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.36.08:397][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.36.17:390][413]LogSlate: Window 'Seed' being destroyed
+[2019.10.09-20.36.19:084][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.39.22:152][300]LogEditorTransaction: Undo Move Node
+[2019.10.09-20.39.25:959][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.39.26:069][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.39.26:086][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.39.26:086][702]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-20.39.26:115][702]LogPlayLevel: [PlayLevel] Compiling Seed before play...
+[2019.10.09-20.39.26:117][702]LogPlayLevel: [PlayLevel]   Compiling AppleSeed as a dependent...
+[2019.10.09-20.39.26:117][702]LogPlayLevel: [PlayLevel]   Compiling PumpkinSeed as a dependent...
+[2019.10.09-20.39.26:117][702]LogPlayLevel: [PlayLevel]   Compiling WatermelonSeed as a dependent...
+[2019.10.09-20.39.26:350][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.09-20.39.26:350][702]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (4 blueprints)
+[2019.10.09-20.39.26:351][702]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:39:26 PM)
+[2019.10.09-20.39.26:351][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.39.26:358][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007105s)
+[2019.10.09-20.39.26:358][702]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.39.26:359][702]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.10.09-20.39.26:359][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007894s)
+[2019.10.09-20.39.26:388][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.09-20.39.26:399][702]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.39.26:407][702]LogInit: FAudioDevice initialized.
+[2019.10.09-20.39.26:414][702]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.39.26:417][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.39.26
+[2019.10.09-20.39.26:418][702]LogWorld: Bringing up level for play took: 0.002528
+[2019.10.09-20.39.26:418][702]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.10.09-20.39.26:419][702]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.39.26:424][702]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 1.246
+[2019.10.09-20.39.26:424][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.39.36:224][837]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.36:233][838]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.36:242][839]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.39:723][233]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.39:732][234]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.39:741][235]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.39.52:791][709]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.39.52:791][709]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.39.52:791][709]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.39.52:791][709]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.40.02:303][767]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.40.02:303][767]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.40.11:626][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.40.11:626][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.40.11:626][826]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.40.11:626][826]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.40.11:649][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.40.11:650][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.40.11:682][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.40.11:686][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.09-20.40.11:694][826]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.40.11:728][829]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.09-20.40.15:056][192]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.40.15:069][192]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.40.16:903][332]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.40.40:921][477]LogEditorTransaction: Undo Move Nodes
+[2019.10.09-20.41.23:907][369]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.41.24:089][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.09-20.42.43:698][115]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.42.43:902][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.10.09-20.43.42:339][752]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.43.42:531][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.09-20.44.20:573][607]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.44.20:763][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.09-20.44.22:223][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.44.22:293][765]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.44.22:323][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.44.22:323][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.44.22:323][765]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:44:22 PM)
+[2019.10.09-20.44.22:323][765]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.44.22:330][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007177s)
+[2019.10.09-20.44.22:331][765]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.44.22:331][765]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.10.09-20.44.22:331][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007980s)
+[2019.10.09-20.44.22:367][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.09-20.44.22:378][765]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.44.22:385][765]LogInit: FAudioDevice initialized.
+[2019.10.09-20.44.22:392][765]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.44.22:395][765]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.44.22
+[2019.10.09-20.44.22:396][765]LogWorld: Bringing up level for play took: 0.002569
+[2019.10.09-20.44.22:396][765]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.10.09-20.44.22:397][765]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.44.22:401][765]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.778
+[2019.10.09-20.44.22:401][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.44.34:434][190]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.44.34:441][191]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.44.39:293][757]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.44.39:302][758]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.44.39:310][759]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.45.49:673][813]LogCharacterMovement: Farmer_C_0 is stuck and failed to move! Velocity: X=1.57 Y=0.00 Z=0.00 Location: X=-610.76 Y=-972.97 Z=225.27 Normal: X=-0.77 Y=0.64 Z=0.00 PenetrationDepth:27.850 Actor:PumpkinTree_C_0 Component:Pl_Tree_02 BoneName:None (0 other events since notify)
+[2019.10.09-20.45.50:650][926]LogCharacterMovement: Farmer_C_0 is stuck and failed to move! Velocity: X=-17.52 Y=-599.74 Z=0.00 Location: X=-610.76 Y=-972.97 Z=225.27 Normal: X=0.77 Y=-0.64 Z=0.00 PenetrationDepth:40.150 Actor:PumpkinTree_C_0 Component:Pl_Tree_02 BoneName:None (112 other events since notify)
+[2019.10.09-20.45.51:876][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.45.51:877][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.45.51:877][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.45.51:877][ 67]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.45.51:905][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.45.51:905][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.45.51:952][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.45.51:955][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.09-20.45.51:979][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.09-20.45.53:628][266]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.45.53:642][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.45.53:642][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.45.53:642][266]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:45:53 PM)
+[2019.10.09-20.45.53:642][266]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.45.53:650][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007317s)
+[2019.10.09-20.45.53:650][266]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.45.53:650][266]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.10.09-20.45.53:650][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.008070s)
+[2019.10.09-20.45.53:678][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.09-20.45.53:689][266]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.45.53:697][266]LogInit: FAudioDevice initialized.
+[2019.10.09-20.45.53:697][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.09-20.45.53:704][266]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.45.53:707][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.45.53
+[2019.10.09-20.45.53:708][266]LogWorld: Bringing up level for play took: 0.002617
+[2019.10.09-20.45.53:708][266]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.10.09-20.45.53:709][266]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.45.53:713][266]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.535
+[2019.10.09-20.45.53:713][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.46.06:374][771]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.06:382][772]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.06:391][773]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.06:703][809]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.06:712][810]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.13:351][575]LogScript: Warning: Attempted to access FruitApple_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitApple_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.46.13:351][575]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitApple_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.46.13:351][575]LogScript: Warning: Attempted to access FruitApple_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitApple_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.46.13:351][575]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitApple_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.46.17:527][ 59]LogScript: Warning: Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.46.17:527][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.46.22:737][650]LogScript: Warning: Attempted to access FruitApple_C_6 via property K2Node_Event_OtherActor_1, but FruitApple_C_6 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.46.22:737][650]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_6 via property K2Node_Event_OtherActor_1, but FruitApple_C_6 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.46.33:802][935]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.33:810][936]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.33:819][937]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.46.34:773][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.46.34:773][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.46.34:773][ 47]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.46.34:773][ 47]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.46.34:798][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.46.34:799][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.46.34:834][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.46.34:838][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.09-20.46.34:846][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.46.34:873][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.09-20.46.37:230][309]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.46.37:242][309]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.46.39:000][422]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.47.13:592][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.47.13:678][196]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.47.13:693][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.47.13:693][196]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-20.47.13:701][196]LogPlayLevel: [PlayLevel] Compiling Seed before play...
+[2019.10.09-20.47.13:703][196]LogPlayLevel: [PlayLevel]   Compiling AppleSeed as a dependent...
+[2019.10.09-20.47.13:703][196]LogPlayLevel: [PlayLevel]   Compiling PumpkinSeed as a dependent...
+[2019.10.09-20.47.13:703][196]LogPlayLevel: [PlayLevel]   Compiling WatermelonSeed as a dependent...
+[2019.10.09-20.47.13:940][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.09-20.47.13:940][196]LogPlayLevel: PlayLevel: Blueprint regeneration took 246 ms (4 blueprints)
+[2019.10.09-20.47.13:940][196]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:47:13 PM)
+[2019.10.09-20.47.13:940][196]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.47.13:947][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007007s)
+[2019.10.09-20.47.13:948][196]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.47.13:948][196]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.10.09-20.47.13:948][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007851s)
+[2019.10.09-20.47.13:978][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.09-20.47.13:989][196]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.47.13:996][196]LogInit: FAudioDevice initialized.
+[2019.10.09-20.47.14:004][196]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.47.14:007][196]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.47.14
+[2019.10.09-20.47.14:007][196]LogWorld: Bringing up level for play took: 0.002594
+[2019.10.09-20.47.14:007][196]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.10.09-20.47.14:009][196]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.47.14:013][196]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.834
+[2019.10.09-20.47.14:013][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.47.22:295][165]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.47.22:303][166]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.47.28:461][885]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.47.28:469][886]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.47.28:478][887]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.47.54:399][897]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.47.54:399][897]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.47.54:399][897]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.47.54:399][897]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.48.07:115][361]LogScript: Warning: Attempted to access FruitWatermelon_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_1 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.48.07:115][361]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_1 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.48.07:115][361]LogScript: Warning: Attempted to access FruitWatermelon_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_1 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.48.07:115][361]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_1 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.48.09:692][651]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.09:701][652]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.09:710][653]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.11:154][815]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.48.11:155][815]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.48.26:633][585]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.26:642][586]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.26:650][587]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.48.30:529][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.48.50:516][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.48.50:516][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.48.50:516][920]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.48.50:517][920]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.48.50:533][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.48.50:533][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.48.50:569][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.48.50:574][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.09-20.48.50:620][923]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.09-20.48.51:930][ 63]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.48.51:934][ 63]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.49.39:275][985]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.49.39:468][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.09-20.49.39:960][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Plants/Seed" FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Blueprints/Plants/Seed.uasset" SILENT=true
+[2019.10.09-20.49.40:059][ 27]LogSavePackage: Moving 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/SeedEE37B9FE4954E60D7D425D9C60F5B423.tmp' to 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Content/Blueprints/Plants/Seed.uasset'
+[2019.10.09-20.49.42:269][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.49.42:298][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.49.42:298][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.49.42:298][275]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:49:42 PM)
+[2019.10.09-20.49.42:298][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.49.42:306][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007142s)
+[2019.10.09-20.49.42:306][275]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.49.42:306][275]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.10.09-20.49.42:306][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007888s)
+[2019.10.09-20.49.42:338][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.09-20.49.42:349][275]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.49.42:356][275]LogInit: FAudioDevice initialized.
+[2019.10.09-20.49.42:362][275]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.49.42:365][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.49.42
+[2019.10.09-20.49.42:365][275]LogWorld: Bringing up level for play took: 0.002566
+[2019.10.09-20.49.42:365][275]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.10.09-20.49.42:367][275]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.49.42:371][275]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.807
+[2019.10.09-20.49.42:371][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.49.51:546][348]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.49.51:554][349]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.49.55:874][857]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.49.55:883][858]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.50.04:468][838]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.50.04:469][838]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.50.04:469][838]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.50.04:469][838]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.50.11:228][620]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.50.11:228][620]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.50.25:223][243]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.50.25:232][244]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.50.25:241][245]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.50.27:709][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.50.27:709][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.50.27:709][526]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.50.27:710][526]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.50.27:732][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.50.27:733][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.50.27:769][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.50.27:773][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.09-20.50.27:781][526]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.50.27:815][529]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.09-20.50.30:134][742]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.50.30:148][742]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.50.31:706][849]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.50.36:009][260]LogEditorTransaction: Undo Create Pin Link
+[2019.10.09-20.50.36:453][291]LogEditorTransaction: Undo Create Pin Link
+[2019.10.09-20.50.38:801][525]LogEditorTransaction: Redo Create Pin Link
+[2019.10.09-20.50.39:125][552]LogEditorTransaction: Redo Create Pin Link
+[2019.10.09-20.51.58:911][852]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.51.59:112][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.09-20.52.00:904][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.52.01:012][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.52.01:043][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.52.01:043][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.52.01:043][ 36]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:52:01 PM)
+[2019.10.09-20.52.01:043][ 36]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.52.01:050][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007064s)
+[2019.10.09-20.52.01:051][ 36]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.52.01:051][ 36]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.10.09-20.52.01:051][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007804s)
+[2019.10.09-20.52.01:083][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.09-20.52.01:094][ 36]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.52.01:102][ 36]LogInit: FAudioDevice initialized.
+[2019.10.09-20.52.01:108][ 36]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.52.01:111][ 36]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.52.01
+[2019.10.09-20.52.01:112][ 36]LogWorld: Bringing up level for play took: 0.002692
+[2019.10.09-20.52.01:112][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.10.09-20.52.01:113][ 36]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.52.01:117][ 36]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.061
+[2019.10.09-20.52.01:117][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.52.10:970][165]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.52.10:979][166]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.52.16:879][841]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.52.16:888][842]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.52.16:897][843]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.52.24:900][736]LogScript: Warning: Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill
+	Farmer_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:0805
+[2019.10.09-20.52.24:900][736]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.52.24:900][736]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.52.28:992][193]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	PumpkinTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.PumpkinTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.52.28:992][193]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.52.35:648][930]LogScript: Warning: Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.52.35:648][930]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_2 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_2 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.52.48:114][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.52.48:115][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.52.48:115][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.52.48:115][334]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.52.48:134][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.52.48:135][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.52.48:170][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.52.48:174][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.09-20.52.48:182][334]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.52.48:219][337]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.09-20.52.50:123][544]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.52.50:135][544]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.52.50:935][596]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.52.55:260][846]LogEditorTransaction: Undo Create Pin Link
+[2019.10.09-20.52.55:807][884]LogEditorTransaction: Undo Create Pin Link
+[2019.10.09-20.52.56:256][921]LogEditorTransaction: Undo Move Node
+[2019.10.09-20.52.56:688][956]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.09-20.52.58:663][139]LogEditorTransaction: Redo Paste clipboard contents
+[2019.10.09-20.52.58:923][158]LogEditorTransaction: Redo Move Node
+[2019.10.09-20.52.59:214][180]LogEditorTransaction: Redo Create Pin Link
+[2019.10.09-20.52.59:442][196]LogEditorTransaction: Redo Create Pin Link
+[2019.10.09-20.54.41:925][975]BlueprintLog: New page: Compile Seed
+[2019.10.09-20.54.42:125][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.09-20.54.44:504][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.54.44:563][240]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.54.44:593][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.54.44:593][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.54.44:593][240]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:54:44 PM)
+[2019.10.09-20.54.44:594][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.54.44:601][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007220s)
+[2019.10.09-20.54.44:601][240]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.54.44:602][240]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2019.10.09-20.54.44:602][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007993s)
+[2019.10.09-20.54.44:633][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.09-20.54.44:644][240]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.54.44:652][240]LogInit: FAudioDevice initialized.
+[2019.10.09-20.54.44:657][240]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.54.44:660][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.54.44
+[2019.10.09-20.54.44:660][240]LogWorld: Bringing up level for play took: 0.002657
+[2019.10.09-20.54.44:660][240]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.10.09-20.54.44:662][240]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.54.44:666][240]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.513
+[2019.10.09-20.54.44:666][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.54.55:107][465]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.54.55:116][466]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.54.55:124][467]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.54.59:340][960]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.54.59:349][961]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.54.59:358][962]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.17:211][981]LogScript: Warning: Attempted to access FruitWatermelon_C_1 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.55.17:211][981]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_1 via property K2Node_Event_OtherActor_1, but FruitWatermelon_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.55.19:775][275]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.55.19:775][275]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.55.34:483][963]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.34:491][964]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.34:500][965]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.34:811][999]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.34:821][  0]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.34:830][  1]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.55.39:038][466]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_1 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.55.39:038][466]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_1 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.55.46:170][260]LogScript: Warning: Attempted to access FruitPumpkin_C_3 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_3 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_1
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.55.46:170][260]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_3 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_3 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.56.01:791][995]LogScript: Warning: Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.56.01:791][995]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_3 via property K2Node_Event_OtherActor_1, but FruitApple_C_3 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.56.03:377][167]LogScript: Warning: Attempted to access FruitApple_C_4 via property K2Node_Event_OtherActor_1, but FruitApple_C_4 is pending kill
+	AppleTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.AppleTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.56.03:377][167]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitApple_C_4 via property K2Node_Event_OtherActor_1, but FruitApple_C_4 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.56.03:670][200]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.56.03:925][228]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.56.03:934][229]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.56.05:969][456]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_4 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_4 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.56.05:969][456]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_4 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitPumpkin_C_4 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.56.21:502][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.56.24:761][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.56.37:117][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.56.37:118][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.56.37:118][742]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.56.37:118][742]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.56.37:152][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.56.37:152][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.56.37:187][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.56.37:192][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.09-20.56.37:199][742]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.56.37:222][743]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.10.09-20.56.39:283][957]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.56.39:296][957]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.56.40:963][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.57.05:982][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.57.06:063][544]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-20.57.06:078][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.57.06:078][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-20.57.06:078][544]PIE: New page: PIE session: Prototype (Oct 9, 2019, 12:57:06 PM)
+[2019.10.09-20.57.06:078][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.57.06:086][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007222s)
+[2019.10.09-20.57.06:086][544]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-20.57.06:086][544]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.10.09-20.57.06:086][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007976s)
+[2019.10.09-20.57.06:118][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.09-20.57.06:129][544]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-20.57.06:136][544]LogInit: FAudioDevice initialized.
+[2019.10.09-20.57.06:142][544]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-20.57.06:145][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-16.57.06
+[2019.10.09-20.57.06:145][544]LogWorld: Bringing up level for play took: 0.002585
+[2019.10.09-20.57.06:145][544]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.10.09-20.57.06:147][544]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-20.57.06:151][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.973
+[2019.10.09-20.57.06:151][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.57.16:370][742]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.57.16:378][743]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.57.22:347][438]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.57.22:356][439]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.57.22:365][440]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-20.57.36:189][  5]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.57.36:189][  5]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitWatermelon_C_0 via property K2Node_DynamicCast_AsFruit_Parent_4, but FruitWatermelon_C_0 is pending kill". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  ForLoop Node:  Branch
+[2019.10.09-20.57.39:989][427]LogScript: Warning: Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill
+	WatermelonTree_C /Game/Maps/UEDPIE_0_Prototype.Prototype:PersistentLevel.WatermelonTree_C_0
+	Function /Game/Blueprints/Plants/TreeParents.TreeParents_C:ExecuteUbergraph_TreeParents:1465
+[2019.10.09-20.57.39:989][427]PIE: Error: Blueprint Runtime Error: "Attempted to access FruitPumpkin_C_1 via property K2Node_Event_OtherActor_1, but FruitPumpkin_C_1 is pending kill". Blueprint:  TreeParents Function:  Execute Ubergraph Tree Parents Graph:  EventGraph Node:  Branch
+[2019.10.09-20.57.46:096][109]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.57.48:665][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-20.58.01:630][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.58.01:631][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.58.01:631][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-20.58.01:631][818]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-20.58.01:660][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-20.58.01:660][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-20.58.01:694][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-20.58.01:698][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.09-20.58.01:706][818]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.58.01:732][820]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.09-20.58.03:845][ 55]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.58.03:857][ 55]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-20.58.07:133][115]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-20.58.27:828][956]LogEditorTransaction: Undo Move Nodes
+[2019.10.09-20.58.54:840][757]LogEditorTransaction: Undo Add Node
+[2019.10.09-20.59.10:946][406]LogEditorTransaction: Undo Move Node
+[2019.10.09-20.59.11:468][447]LogEditorTransaction: Undo Add Node
+[2019.10.09-20.59.16:670][918]LogEditorTransaction: Undo Move Node
+[2019.10.09-20.59.17:223][949]LogEditorTransaction: Undo Add Node
+[2019.10.09-20.59.18:479][ 44]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.18:122][674]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.18:367][682]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.18:588][688]LogEditorTransaction: Undo Add Node
+[2019.10.09-21.00.18:809][696]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.19:029][703]LogEditorTransaction: Undo Add Node
+[2019.10.09-21.00.19:918][782]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.20:794][861]LogEditorTransaction: Undo Move Node
+[2019.10.09-21.00.57:862][629]LogEditorTransaction: Undo Delete current selection
+[2019.10.09-21.01.26:881][659]BlueprintLog: New page: Compile Farmer
+[2019.10.09-21.01.27:107][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.09-21.01.29:835][907]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-21.01.29:878][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.09-21.01.29:879][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype" FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Maps/Prototype_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.09-21.01.30:124][907]LogSavePackage: Moving 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Prototype_Auto111625D5D4BB615B5B06DD3B793CAC166.tmp' to 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Maps/Prototype_Auto1.umap'
+[2019.10.09-21.01.30:128][907]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Prototype' took 0.283
+[2019.10.09-21.01.30:128][907]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.283
+[2019.10.09-21.01.30:130][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Farmer] ([1] browsable assets)...
+[2019.10.09-21.01.30:147][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Farmer.Farmer]
+[2019.10.09-21.01.30:147][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Farmer]
+[2019.10.09-21.01.30:147][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Farmer" FILE="C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Farmer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.09-21.01.30:305][907]LogSavePackage: Moving 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Farmer_Auto19D7512CF430B81F53BF70F997D8F0A0B.tmp' to 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Farmer_Auto1.uasset'
+[2019.10.09-21.01.30:306][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitParent] ([1] browsable assets)...
+[2019.10.09-21.01.30:321][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent]
+[2019.10.09-21.01.30:321][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitParent]
+[2019.10.09-21.01.30:401][907]LogSavePackage: Moving 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/FruitParent_Auto1B73F95E14223367244B675B7239448C3.tmp' to 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitParent_Auto1.uasset'
+[2019.10.09-21.01.30:403][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Plants/Seed] ([1] browsable assets)...
+[2019.10.09-21.01.30:417][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Plants/Seed.Seed]
+[2019.10.09-21.01.30:417][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Plants/Seed]
+[2019.10.09-21.01.30:516][907]LogSavePackage: Moving 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Seed_Auto16DB1DD274BAF0A5077722E872A7D858A.tmp' to 'C:/Users/Daimenion/Documents/GitHub/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Plants/Seed_Auto1.uasset'
+[2019.10.09-21.01.30:517][907]LogFileHelpers: Auto-saving content packages took 0.387
+[2019.10.09-21.01.32:730][136]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-21.01.39:099][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-21.01.39:201][780]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-21.01.39:218][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.01.39:218][780]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-21.01.39:228][780]LogPlayLevel: [PlayLevel] Compiling Farmer before play...
+[2019.10.09-21.01.39:440][780]LogPlayLevel: [PlayLevel] Compiling Seed before play...
+[2019.10.09-21.01.39:442][780]LogPlayLevel: [PlayLevel]   Compiling AppleSeed as a dependent...
+[2019.10.09-21.01.39:442][780]LogPlayLevel: [PlayLevel]   Compiling PumpkinSeed as a dependent...
+[2019.10.09-21.01.39:442][780]LogPlayLevel: [PlayLevel]   Compiling WatermelonSeed as a dependent...
+[2019.10.09-21.01.39:646][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.09-21.01.39:646][780]LogPlayLevel: PlayLevel: Blueprint regeneration took 428 ms (5 blueprints)
+[2019.10.09-21.01.39:646][780]PIE: New page: PIE session: Prototype (Oct 9, 2019, 1:01:39 PM)
+[2019.10.09-21.01.39:646][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-21.01.39:653][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006945s)
+[2019.10.09-21.01.39:654][780]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-21.01.39:654][780]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2019.10.09-21.01.39:654][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007721s)
+[2019.10.09-21.01.39:685][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.09-21.01.39:696][780]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-21.01.39:704][780]LogInit: FAudioDevice initialized.
+[2019.10.09-21.01.39:714][780]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-21.01.39:717][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-17.01.39
+[2019.10.09-21.01.39:717][780]LogWorld: Bringing up level for play took: 0.002578
+[2019.10.09-21.01.39:717][780]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.10.09-21.01.39:719][780]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-21.01.39:722][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype 0.545
+[2019.10.09-21.01.39:723][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.01.49:132][875]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.01.49:141][876]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.01.49:151][877]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.01.53:437][388]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.01.53:445][389]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.02.14:477][812]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-21.02.38:976][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.02.38:976][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-21.02.38:976][360]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-21.02.38:976][360]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-21.02.38:998][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-21.02.38:999][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.02.39:034][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-21.02.39:038][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.09-21.02.39:080][364]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.09-21.02.40:537][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-21.02.40:616][543]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-21.02.40:648][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.02.40:648][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-21.02.40:648][543]PIE: New page: PIE session: Prototype (Oct 9, 2019, 1:02:40 PM)
+[2019.10.09-21.02.40:648][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-21.02.40:655][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007234s)
+[2019.10.09-21.02.40:656][543]LogAIModule: Creating AISystem for world Prototype
+[2019.10.09-21.02.40:656][543]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2019.10.09-21.02.40:656][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototype.Prototype to /Game/Maps/UEDPIE_0_Prototype.Prototype (0.007991s)
+[2019.10.09-21.02.40:687][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.09-21.02.40:698][543]LogInit: XAudio2 using 'VG245 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-21.02.40:705][543]LogInit: FAudioDevice initialized.
+[2019.10.09-21.02.40:714][543]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.09-21.02.40:717][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.10.09-17.02.40
+[2019.10.09-21.02.40:717][543]LogWorld: Bringing up level for play took: 0.002589
+[2019.10.09-21.02.40:717][543]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.10.09-21.02.40:719][543]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.09-21.02.40:723][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Prototype -0.456
+[2019.10.09-21.02.40:723][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.02.49:320][563]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.02.49:328][564]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.02.51:673][840]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.02.51:681][841]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.02.51:690][842]LogScript: Warning: Script Msg: Divide by zero detected: 3.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/UI/Health.Health_C:GetPercent_0
+
+[2019.10.09-21.03.02:479][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.03.02:479][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-21.03.02:479][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Prototype
+[2019.10.09-21.03.02:480][105]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2019.10.09-21.03.02:504][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-21.03.02:504][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.10.09-21.03.02:539][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-21.03.02:542][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.09-21.03.02:583][109]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.09-21.03.03:349][182]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-21.03.13:643][231]BlueprintLog: New page: Compile Farmer
+[2019.10.09-21.03.13:841][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.09-21.03.21:600][962]LogUObjectBase: Warning: Object is not registered
+[2019.10.09-21.03.21:620][962]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.09-21.03.22:795][962]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.175 s
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: 
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: Stack: 
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff844e941e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8446b7d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8446c5fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff850536c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff84cd64dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff84cd1e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff875b8d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff875d7c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff875bd922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff875bb5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff875ba9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff88d944c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff88d9326df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff88d947340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff88d92edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8b028ca66 USER32.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8b028c582 USER32.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff88d9488e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff71cb56980 UE4Editor.exe!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff71cb6a91c UE4Editor.exe!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff71cb6a9fa UE4Editor.exe!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff71cb7b92c UE4Editor.exe!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff71cb7e60e UE4Editor.exe!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8b0447974 KERNEL32.DLL!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: [Callstack] 0x00007ff8b2f6a271 ntdll.dll!UnknownFunction []
+[2019.10.09-21.03.22:795][962]LogOutputDevice: Error: 
+[2019.10.09-21.03.22:805][962]LogStats:                SubmitErrorReport -  0.000 s
