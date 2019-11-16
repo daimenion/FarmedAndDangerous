@@ -593,3 +593,689 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.16-23.42.48:259][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2019.11.16-23.42.48:322][853]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2019.11.16-23.43.23:668][382]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CEC8F735-4457-A15C-0A84-F687D9ECFE04}
+[2019.11.16-23.44.03:880][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.44.31:993][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.44.32:186][745]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.11.16-23.44.32:428][745]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.16-23.44.33:572][745]LogSlate: Took 0.009440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.16-23.44.33:990][746]LogSlate: Took 0.001191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.16-23.44.58:196][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.44.58:262][803]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.44.58:275][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.44.58:276][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.44.58:276][803]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:44:58 PM)
+[2019.11.16-23.44.58:276][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.44.58:286][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010572s)
+[2019.11.16-23.44.58:287][803]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.44.58:287][803]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.11.16-23.44.58:287][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011692s)
+[2019.11.16-23.44.58:326][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.16-23.44.58:332][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.44.58:341][803]LogInit: FAudioDevice initialized.
+[2019.11.16-23.44.58:349][803]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.44.58:354][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.44.58
+[2019.11.16-23.44.58:354][803]LogWorld: Bringing up level for play took: 0.004240
+[2019.11.16-23.44.58:354][803]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.16-23.44.58:357][803]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.44.58:362][803]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.775
+[2019.11.16-23.44.58:362][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.02:854][340]LogBlueprintUserMessages: [Farmer_C_0] 4.0
+[2019.11.16-23.45.03:662][437]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.45.04:229][505]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.45.04:663][557]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.45.05:046][603]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.45.06:814][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.06:814][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.06:814][815]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.06:815][815]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.45.06:827][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.45.06:827][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.06:863][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.06:868][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.16-23.45.06:916][821]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.16-23.45.08:078][916]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.45.25:682][179]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.45.25:695][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.25:695][179]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.16-23.45.25:715][179]LogPlayLevel: [PlayLevel] Compiling Farmer before play...
+[2019.11.16-23.45.26:080][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.16-23.45.26:080][179]LogPlayLevel: PlayLevel: Blueprint regeneration took 385 ms (1 blueprints)
+[2019.11.16-23.45.26:081][179]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:45:26 PM)
+[2019.11.16-23.45.26:081][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.26:092][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010908s)
+[2019.11.16-23.45.26:092][179]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.45.26:093][179]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.11.16-23.45.26:093][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011907s)
+[2019.11.16-23.45.26:124][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.11.16-23.45.26:130][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.45.26:138][179]LogInit: FAudioDevice initialized.
+[2019.11.16-23.45.26:147][179]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.45.26:152][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.45.26
+[2019.11.16-23.45.26:153][179]LogWorld: Bringing up level for play took: 0.005457
+[2019.11.16-23.45.26:153][179]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.16-23.45.26:155][179]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.45.26:160][179]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 1.023
+[2019.11.16-23.45.26:160][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.27:436][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.45.27:512][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.27:512][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.27:512][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.27:512][268]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.45.27:522][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.45.27:522][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.27:558][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.27:563][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.16-23.45.27:612][272]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.16-23.45.28:967][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.45.29:050][423]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.45.29:066][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.29:066][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.45.29:066][423]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:45:29 PM)
+[2019.11.16-23.45.29:066][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.29:076][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009691s)
+[2019.11.16-23.45.29:076][423]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.45.29:076][423]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.11.16-23.45.29:076][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.010570s)
+[2019.11.16-23.45.29:107][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.16-23.45.29:112][423]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.45.29:120][423]LogInit: FAudioDevice initialized.
+[2019.11.16-23.45.29:130][423]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.45.29:134][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.45.29
+[2019.11.16-23.45.29:134][423]LogWorld: Bringing up level for play took: 0.004300
+[2019.11.16-23.45.29:135][423]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.16-23.45.29:137][423]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.45.29:142][423]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.005
+[2019.11.16-23.45.29:142][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.32:112][778]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.45.32:428][816]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.45.32:696][848]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.45.33:004][885]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.45.51:626][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.51:627][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.51:627][118]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.51:627][118]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.45.51:641][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.45.51:641][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.51:681][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.45.51:687][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.16-23.45.51:727][123]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.16-23.45.54:979][270]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.45.59:457][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.45.59:531][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.45.59:547][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.45.59:547][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.45.59:547][683]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:45:59 PM)
+[2019.11.16-23.45.59:547][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.45.59:557][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010027s)
+[2019.11.16-23.45.59:558][683]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.45.59:558][683]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2019.11.16-23.45.59:558][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011018s)
+[2019.11.16-23.45.59:589][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.16-23.45.59:595][683]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.45.59:602][683]LogInit: FAudioDevice initialized.
+[2019.11.16-23.45.59:610][683]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.45.59:614][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.45.59
+[2019.11.16-23.45.59:615][683]LogWorld: Bringing up level for play took: 0.004063
+[2019.11.16-23.45.59:615][683]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.11.16-23.45.59:618][683]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.45.59:624][683]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.488
+[2019.11.16-23.45.59:624][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.46.02:208][991]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.46.02:407][ 15]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.46.02:583][ 36]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.46.02:766][ 58]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.46.05:751][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.46.05:751][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.46.05:751][416]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.46.05:751][416]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.46.05:759][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.46.05:760][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.46.05:796][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.46.05:801][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.16-23.46.05:851][421]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.16-23.46.07:444][512]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.46.16:872][244]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.46.46:833][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.46.46:908][197]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.46.46:921][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.46.46:921][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.46.46:921][197]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:46:46 PM)
+[2019.11.16-23.46.46:921][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.46.46:933][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2019.11.16-23.46.46:933][197]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.46.46:933][197]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2019.11.16-23.46.46:933][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011245s)
+[2019.11.16-23.46.46:964][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.16-23.46.46:970][197]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.46.46:978][197]LogInit: FAudioDevice initialized.
+[2019.11.16-23.46.46:987][197]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.46.46:991][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.46.46
+[2019.11.16-23.46.46:992][197]LogWorld: Bringing up level for play took: 0.003965
+[2019.11.16-23.46.46:992][197]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.16-23.46.46:995][197]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.46.46:999][197]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.138
+[2019.11.16-23.46.46:999][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.46.50:458][610]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.46.50:765][647]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.46.51:074][684]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.46.51:358][718]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.47.01:488][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.47.01:489][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.47.01:489][931]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.47.01:489][931]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.47.01:502][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.47.01:502][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.47.01:538][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.47.01:543][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.16-23.47.01:594][936]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.16-23.47.03:291][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.47.18:006][223]LogSlate: Window 'Farmer' being destroyed
+[2019.11.16-23.47.18:009][223]LogSlate: Window 'Farmer' being destroyed
+[2019.11.16-23.47.18:010][223]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.47.32:578][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.47.32:752][903]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Farmer.Farmer
+[2019.11.16-23.47.48:485][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.47.55:713][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent
+[2019.11.16-23.48.15:198][892]LogSlate: Took 0.001508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.16-23.48.22:129][683]BlueprintLog: New page: Compile FruitParent
+[2019.11.16-23.48.22:397][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.11.16-23.48.26:878][206]BlueprintLog: New page: Compile FruitParent
+[2019.11.16-23.48.27:111][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.16-23.48.33:179][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Fruits_Veggies/FruitParent" FILE="../../../../Projects/GameJam2/GameJam2/Content/Blueprints/Fruits_Veggies/FruitParent.uasset" SILENT=true
+[2019.11.16-23.48.33:245][915]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitParentA6A9CD2A47AF3473E2899DADCC7DCCC0.tmp' to '../../../../Projects/GameJam2/GameJam2/Content/Blueprints/Fruits_Veggies/FruitParent.uasset'
+[2019.11.16-23.48.33:679][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.48.34:777][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Farmer" FILE="../../../../Projects/GameJam2/GameJam2/Content/Blueprints/Farmer.uasset" SILENT=true
+[2019.11.16-23.48.34:953][ 27]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/Farmer5170F69A4A161D46977EB099BD51B9AF.tmp' to '../../../../Projects/GameJam2/GameJam2/Content/Blueprints/Farmer.uasset'
+[2019.11.16-23.48.36:385][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.48.38:194][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.48.38:508][312]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Fruits_Veggies/FruitCorn.FruitCorn
+[2019.11.16-23.49.43:737][539]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.16-23.49.45:184][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.50.41:752][432]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.50.41:786][432]LogBlueprint: Error: [Compiler Farmer] This blueprint (self) is not a FruitParent_C, therefore ' Target ' must have a connection.
+[2019.11.16-23.50.41:787][432]LogBlueprint: Error: [Compiler Farmer] Variable node  Get ClipSize  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.16-23.50.42:063][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.11.16-23.51.12:143][728]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.51.12:184][728]LogBlueprint: Error: [Compiler Farmer] Failed to resolve term  Value generated from expanding Decrement Float  passed into  Target generated from expanding Decrement Float
+[2019.11.16-23.51.12:436][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.16-23.51.21:631][559]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.51.21:938][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.16-23.51.23:609][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.51.23:684][725]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.51.23:704][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.51.23:704][725]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.16-23.51.23:705][725]LogPlayLevel: [PlayLevel] Compiling FruitCorn before play...
+[2019.11.16-23.51.23:912][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.11.16-23.51.23:912][725]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (1 blueprints)
+[2019.11.16-23.51.23:912][725]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:51:23 PM)
+[2019.11.16-23.51.23:912][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.51.23:923][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010262s)
+[2019.11.16-23.51.23:923][725]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.51.23:923][725]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2019.11.16-23.51.23:924][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011250s)
+[2019.11.16-23.51.23:959][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.16-23.51.23:965][725]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.51.23:973][725]LogInit: FAudioDevice initialized.
+[2019.11.16-23.51.23:982][725]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.51.23:986][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.51.23
+[2019.11.16-23.51.23:987][725]LogWorld: Bringing up level for play took: 0.004483
+[2019.11.16-23.51.23:987][725]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.11.16-23.51.23:990][725]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.51.23:995][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.858
+[2019.11.16-23.51.23:995][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.51.29:046][329]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.51.29:046][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.29:046][329]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.51.29:046][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.31:404][612]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.51.31:404][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.31:404][612]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.51.31:404][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.36:234][191]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.51.36:234][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.36:234][191]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.51.36:234][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.38:209][428]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.51.38:209][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.38:209][428]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.51.38:209][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.51.38:910][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.51.38:910][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.51.38:910][512]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.51.38:911][512]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.51.38:918][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.51.38:919][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.51.38:959][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.51.38:964][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.16-23.51.38:971][512]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.51.39:015][516]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.11.16-23.51.43:360][ 19]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-23.51.43:362][ 19]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-23.51.45:591][163]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.52.00:719][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.52.00:804][208]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.52.00:823][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.52.00:823][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.52.00:823][208]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:52:00 PM)
+[2019.11.16-23.52.00:823][208]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.52.00:834][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010724s)
+[2019.11.16-23.52.00:835][208]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.52.00:835][208]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.11.16-23.52.00:835][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011732s)
+[2019.11.16-23.52.00:869][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.16-23.52.00:874][208]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.52.00:882][208]LogInit: FAudioDevice initialized.
+[2019.11.16-23.52.00:888][208]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.52.00:892][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.52.00
+[2019.11.16-23.52.00:893][208]LogWorld: Bringing up level for play took: 0.004208
+[2019.11.16-23.52.00:893][208]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.11.16-23.52.00:896][208]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.52.00:900][208]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.237
+[2019.11.16-23.52.00:901][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.52.04:958][693]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.52.04:958][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.04:958][693]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.52.04:958][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.08:909][167]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.52.08:909][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.08:909][167]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.52.08:909][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.16:543][ 83]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:29C1
+[2019.11.16-23.52.16:544][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.16:544][ 83]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent
+	Farmer_C /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF:PersistentLevel.Farmer_C_0
+	Function /Game/Blueprints/Farmer.Farmer_C:ExecuteUbergraph_Farmer:2A32
+[2019.11.16-23.52.16:544][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFruit_Parent". Blueprint:  Farmer Function:  Execute Ubergraph Farmer Graph:  CompareFloat Node:  Branch
+[2019.11.16-23.52.19:212][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.52.19:212][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.52.19:212][403]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.52.19:213][403]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.52.19:224][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.52.19:224][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.52.19:264][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.52.19:269][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.16-23.52.19:276][403]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.52.19:314][407]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.11.16-23.52.23:999][892]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C5E65D00-419D-5D56-27B5-B4A5EDA87AAC}
+[2019.11.16-23.52.24:701][971]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-23.52.24:703][971]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-23.52.26:120][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.52.26:982][103]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.52.27:266][107]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.52.27:491][108]LogEditorTransaction: Undo Move Node
+[2019.11.16-23.52.30:885][392]LogEditorTransaction: Redo Move Node
+[2019.11.16-23.52.31:149][396]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.52.31:399][399]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.52.46:952][707]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.52.47:260][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.16-23.52.50:143][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.52.50:209][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.52.50:230][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.52.50:230][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.52.50:231][998]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:52:50 PM)
+[2019.11.16-23.52.50:231][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.52.50:241][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010609s)
+[2019.11.16-23.52.50:242][998]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.52.50:242][998]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2019.11.16-23.52.50:242][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011655s)
+[2019.11.16-23.52.50:281][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.16-23.52.50:286][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.52.50:294][998]LogInit: FAudioDevice initialized.
+[2019.11.16-23.52.50:299][998]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.52.50:303][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.52.50
+[2019.11.16-23.52.50:303][998]LogWorld: Bringing up level for play took: 0.004250
+[2019.11.16-23.52.50:304][998]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.11.16-23.52.50:306][998]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.52.50:311][998]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.825
+[2019.11.16-23.52.50:312][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.04:676][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.04:676][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.04:676][719]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.53.04:677][719]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.53.04:691][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.53.04:691][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.04:731][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.04:737][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.16-23.53.04:780][722]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.11.16-23.53.05:907][813]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.53.14:255][475]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.53.14:574][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.11.16-23.53.17:273][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.53.17:581][774]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.53.17:604][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.17:604][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.53.17:604][774]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:53:17 PM)
+[2019.11.16-23.53.17:604][774]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.53.17:615][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010449s)
+[2019.11.16-23.53.17:616][774]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.53.17:616][774]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2019.11.16-23.53.17:616][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011482s)
+[2019.11.16-23.53.17:652][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.16-23.53.17:658][774]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.53.17:665][774]LogInit: FAudioDevice initialized.
+[2019.11.16-23.53.17:675][774]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.53.17:679][774]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.53.17
+[2019.11.16-23.53.17:680][774]LogWorld: Bringing up level for play took: 0.004299
+[2019.11.16-23.53.17:680][774]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.11.16-23.53.17:682][774]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.53.17:687][774]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.55
+[2019.11.16-23.53.17:688][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.28:024][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.28:024][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.28:024][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.53.28:024][ 12]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.53.28:037][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.53.28:038][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.28:080][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.28:084][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.11.16-23.53.28:126][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.11.16-23.53.29:248][117]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.53.30:915][287]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.53.30:940][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.30:940][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.53.30:940][287]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:53:30 PM)
+[2019.11.16-23.53.30:940][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.53.30:951][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010458s)
+[2019.11.16-23.53.30:952][287]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.53.30:952][287]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2019.11.16-23.53.30:952][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011913s)
+[2019.11.16-23.53.30:984][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.16-23.53.30:989][287]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.53.30:996][287]LogInit: FAudioDevice initialized.
+[2019.11.16-23.53.31:002][287]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.53.31:006][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.53.31
+[2019.11.16-23.53.31:007][287]LogWorld: Bringing up level for play took: 0.004017
+[2019.11.16-23.53.31:007][287]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.11.16-23.53.31:009][287]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.53.31:014][287]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.123
+[2019.11.16-23.53.31:014][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.38:214][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.38:214][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.38:214][121]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.53.38:215][121]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.53.38:223][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.53.38:223][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.53.38:263][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.53.38:269][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.11.16-23.53.38:320][126]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.11.16-23.53.39:402][214]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.54.03:473][397]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.03:691][398]LogEditorTransaction: Undo Move Node
+[2019.11.16-23.54.03:910][399]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.04:136][400]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.04:355][401]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.04:580][402]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.04:800][403]LogEditorTransaction: Undo Move Node
+[2019.11.16-23.54.04:863][403]LogEditorTransaction: Undo Create Pin Link
+[2019.11.16-23.54.05:154][415]LogEditorTransaction: Undo Add Node
+[2019.11.16-23.54.05:506][429]LogEditorTransaction: Undo Remove Variable
+[2019.11.16-23.54.05:865][442]LogEditorTransaction: Undo Change Number Pin Value
+[2019.11.16-23.54.06:525][508]LogEditorTransaction: Undo Add Node
+[2019.11.16-23.54.06:915][547]LogEditorTransaction: Undo Edit Clip Size
+[2019.11.16-23.54.08:573][714]LogEditorTransaction: Redo Edit Clip Size
+[2019.11.16-23.54.08:747][731]LogEditorTransaction: Redo Add Node
+[2019.11.16-23.54.08:902][746]LogEditorTransaction: Redo Change Number Pin Value
+[2019.11.16-23.54.09:045][760]LogEditorTransaction: Redo Remove Variable
+[2019.11.16-23.54.09:052][760]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.Farmer_C_0.CharacterMesh0) Component already registered.
+[2019.11.16-23.54.09:276][761]LogEditorTransaction: Redo Add Node
+[2019.11.16-23.54.09:500][762]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.09:719][763]LogEditorTransaction: Redo Move Node
+[2019.11.16-23.54.09:771][763]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.09:951][764]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.10:164][765]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.10:216][765]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.10:391][766]LogEditorTransaction: Redo Move Node
+[2019.11.16-23.54.10:608][767]LogEditorTransaction: Redo Create Pin Link
+[2019.11.16-23.54.16:628][305]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.54.17:004][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.11.16-23.54.18:867][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.54.18:934][490]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.54.18:954][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.54.18:955][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.16-23.54.18:955][490]LogPlayLevel: [PlayLevel] Compiling FruitCorn before play...
+[2019.11.16-23.54.19:163][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.16-23.54.19:163][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (1 blueprints)
+[2019.11.16-23.54.19:164][490]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:54:19 PM)
+[2019.11.16-23.54.19:164][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.54.19:174][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009819s)
+[2019.11.16-23.54.19:174][490]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.54.19:174][490]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2019.11.16-23.54.19:175][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.010782s)
+[2019.11.16-23.54.19:210][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.16-23.54.19:216][490]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.54.19:223][490]LogInit: FAudioDevice initialized.
+[2019.11.16-23.54.19:229][490]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.54.19:233][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.54.19
+[2019.11.16-23.54.19:233][490]LogWorld: Bringing up level for play took: 0.003998
+[2019.11.16-23.54.19:234][490]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.11.16-23.54.19:236][490]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.54.19:241][490]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.104
+[2019.11.16-23.54.19:241][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.54.21:616][773]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.22:175][840]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.22:525][882]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.22:841][920]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.23:108][952]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.23:400][987]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.23:692][ 22]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.23:991][ 58]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.24:208][ 84]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.24:391][106]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.24:558][126]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.24:716][145]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.24:917][169]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:067][187]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:242][208]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:383][225]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:559][246]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:708][264]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.25:883][285]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:049][305]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:183][321]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:350][341]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:501][359]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:650][377]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:834][399]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.26:992][418]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.27:142][436]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.27:316][457]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.27:483][477]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.27:651][497]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.29:793][754]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.30:017][781]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.30:176][800]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.54.30:486][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.54.30:486][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.54.30:486][837]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.54.30:486][837]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.54.30:494][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.54.30:495][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.54.30:534][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.54.30:540][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.11.16-23.54.30:590][843]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.11.16-23.54.31:861][948]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.55.16:537][ 20]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.55.16:573][ 20]LogBlueprint: Error: [Compiler Farmer] This blueprint (self) is not a FruitParent_C, therefore ' Target ' must have a connection.
+[2019.11.16-23.55.16:574][ 20]LogBlueprint: Error: [Compiler Farmer] Variable node  Set ClipSize  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.16-23.55.16:864][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.11.16-23.55.22:182][514]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.55.22:484][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.11.16-23.55.24:432][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.55.24:524][721]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.55.24:545][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.55.24:545][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.55.24:545][721]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:55:24 PM)
+[2019.11.16-23.55.24:545][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.55.24:555][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010092s)
+[2019.11.16-23.55.24:556][721]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.55.24:556][721]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2019.11.16-23.55.24:556][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.011082s)
+[2019.11.16-23.55.24:593][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.11.16-23.55.24:600][721]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.55.24:610][721]LogInit: FAudioDevice initialized.
+[2019.11.16-23.55.24:614][721]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.55.24:618][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.55.24
+[2019.11.16-23.55.24:619][721]LogWorld: Bringing up level for play took: 0.004257
+[2019.11.16-23.55.24:619][721]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.11.16-23.55.24:622][721]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.55.24:628][721]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF -0.509
+[2019.11.16-23.55.24:628][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.55.29:712][329]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.35:478][ 21]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.55.35:720][ 50]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.55.35:987][ 82]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.55.36:261][115]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.41:395][731]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.44:170][ 64]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.46:954][398]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.49:613][717]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.53:396][171]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.55.53:529][187]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.55.53:688][206]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.55.53:829][223]LogBlueprintUserMessages: [Farmer_C_0] 0.0
+[2019.11.16-23.55.55:231][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.55.55:231][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.55.55:231][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.55.55:232][391]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.55.55:244][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.55.55:244][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.55.55:286][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.55.55:291][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.16-23.55.55:335][394]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.11.16-23.56.03:385][730]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.56.11:374][458]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.56.11:673][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.16-23.56.13:713][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.56.13:780][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.56.13:800][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.56.13:800][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.56.13:801][666]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:56:13 PM)
+[2019.11.16-23.56.13:801][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.56.13:811][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009861s)
+[2019.11.16-23.56.13:811][666]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.56.13:811][666]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.11.16-23.56.13:811][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.010795s)
+[2019.11.16-23.56.13:849][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.16-23.56.13:854][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.56.13:862][666]LogInit: FAudioDevice initialized.
+[2019.11.16-23.56.13:872][666]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.56.13:876][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.56.13
+[2019.11.16-23.56.13:877][666]LogWorld: Bringing up level for play took: 0.003948
+[2019.11.16-23.56.13:877][666]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.11.16-23.56.13:879][666]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.56.13:884][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.747
+[2019.11.16-23.56.13:885][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.56.16:460][973]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.56.16:710][  3]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.56.16:952][ 32]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.56.23:269][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.56.23:269][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.56.23:269][790]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.56.23:270][790]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.56.23:279][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.56.23:279][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.56.23:322][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.56.23:330][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.16-23.56.23:375][794]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.11.16-23.56.24:535][890]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-23.56.40:665][906]BlueprintLog: New page: Compile FruitCorn
+[2019.11.16-23.56.40:888][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.16-23.57.06:446][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.11.16-23.57.06:446][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PrototypeBF' took 0.037
+[2019.11.16-23.57.06:449][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Farmer] ([1] browsable assets)...
+[2019.11.16-23.57.06:470][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Farmer.Farmer]
+[2019.11.16-23.57.06:470][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Farmer]
+[2019.11.16-23.57.06:470][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Farmer" FILE="../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Farmer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.16-23.57.06:651][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/Farmer_Auto1B5438F654F8A79A0C4BC27A72CD43041.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Farmer_Auto1.uasset'
+[2019.11.16-23.57.06:652][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitParent] ([1] browsable assets)...
+[2019.11.16-23.57.06:670][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitParent.FruitParent]
+[2019.11.16-23.57.06:670][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitParent]
+[2019.11.16-23.57.06:735][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitParent_Auto192D5C2034D833FD82A9E13914967E74B.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitParent_Auto1.uasset'
+[2019.11.16-23.57.06:736][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitApple] ([1] browsable assets)...
+[2019.11.16-23.57.06:756][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitApple.FruitApple]
+[2019.11.16-23.57.06:756][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitApple]
+[2019.11.16-23.57.06:798][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitApple_Auto1B4D307DE4DCB8CEA69726D9D0FD565DB.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitApple_Auto1.uasset'
+[2019.11.16-23.57.06:799][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitPumpkin] ([1] browsable assets)...
+[2019.11.16-23.57.06:816][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitPumpkin.FruitPumpkin]
+[2019.11.16-23.57.06:816][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitPumpkin]
+[2019.11.16-23.57.06:871][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitPumpkin_Auto1D65536BC4AD01045AA4347BF3BA0A0FE.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitPumpkin_Auto1.uasset'
+[2019.11.16-23.57.06:872][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitWatermelon] ([1] browsable assets)...
+[2019.11.16-23.57.06:890][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitWatermelon.FruitWatermelon]
+[2019.11.16-23.57.06:890][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitWatermelon]
+[2019.11.16-23.57.06:942][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitWatermelon_Auto15E70F59F4B1B69988A4F12800888A7AA.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitWatermelon_Auto1.uasset'
+[2019.11.16-23.57.06:943][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Fruits_Veggies/FruitCorn] ([1] browsable assets)...
+[2019.11.16-23.57.06:960][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Fruits_Veggies/FruitCorn.FruitCorn]
+[2019.11.16-23.57.06:960][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Fruits_Veggies/FruitCorn]
+[2019.11.16-23.57.07:007][135]LogSavePackage: Moving '../../../../Projects/GameJam2/GameJam2/Saved/FruitCorn_Auto198909CE442DD9D27337D468669EE82DF.tmp' to '../../../../Projects/GameJam2/GameJam2/Saved/Autosaves/Game/Blueprints/Fruits_Veggies/FruitCorn_Auto1.uasset'
+[2019.11.16-23.57.07:008][135]LogFileHelpers: Auto-saving content packages took 0.561
+[2019.11.16-23.57.35:933][ 55]BlueprintLog: New page: Compile Farmer
+[2019.11.16-23.57.36:237][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.16-23.57.37:715][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.57.37:782][183]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.57.37:802][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.57.37:803][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.57.37:803][183]PIE: New page: PIE session: PrototypeBF (Nov 16, 2019, 1:57:37 PM)
+[2019.11.16-23.57.37:803][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.57.37:813][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009753s)
+[2019.11.16-23.57.37:813][183]LogAIModule: Creating AISystem for world PrototypeBF
+[2019.11.16-23.57.37:813][183]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2019.11.16-23.57.37:813][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypeBF.PrototypeBF to /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF (0.010679s)
+[2019.11.16-23.57.37:852][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.16-23.57.37:858][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.16-23.57.37:866][183]LogInit: FAudioDevice initialized.
+[2019.11.16-23.57.37:872][183]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.16-23.57.37:877][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypeBF.PrototypeBF up for play (max tick rate 0) at 2019.11.16-18.57.37
+[2019.11.16-23.57.37:877][183]LogWorld: Bringing up level for play took: 0.004263
+[2019.11.16-23.57.37:877][183]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.11.16-23.57.37:880][183]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.11.16-23.57.37:886][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrototypeBF 0.749
+[2019.11.16-23.57.37:886][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.57.40:328][474]LogBlueprintUserMessages: [Farmer_C_0] 4.0
+[2019.11.16-23.57.40:587][505]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.57.40:845][536]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.57.41:286][589]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.57.58:869][695]LogBlueprintUserMessages: [Farmer_C_0] 4.0
+[2019.11.16-23.57.59:185][733]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.57.59:493][770]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.57.59:859][814]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.58.03:395][238]LogBlueprintUserMessages: [Farmer_C_0] 4.0
+[2019.11.16-23.58.03:577][260]LogBlueprintUserMessages: [Farmer_C_0] 3.0
+[2019.11.16-23.58.03:736][279]LogBlueprintUserMessages: [Farmer_C_0] 2.0
+[2019.11.16-23.58.03:877][296]LogBlueprintUserMessages: [Farmer_C_0] 1.0
+[2019.11.16-23.58.04:979][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.58.04:979][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.58.04:979][428]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypeBF
+[2019.11.16-23.58.04:979][428]LogWorld: UWorld::CleanupWorld for PrototypeBF, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-23.58.04:990][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.58.04:991][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF' with GeneratedClass '/Game/Maps/PrototypeBF.PrototypeBF_C' with ClassGeneratedBy '/Game/Maps/PrototypeBF.PrototypeBF:PersistentLevel.PrototypeBF'
+[2019.11.16-23.58.05:035][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.58.05:040][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.16-23.58.05:080][433]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.11.16-23.58.56:934][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.58.57:405][750]Cmd: SELECT NONE
