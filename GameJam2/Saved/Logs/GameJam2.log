@@ -3438,3 +3438,47 @@ Please see Output Log for details.
 [2020.02.06-00.42.17:821][933]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.02.06-00.42.17:849][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2020.02.06-00.42.18:166][933]LogSavePackage: Moving 'F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Saved/Tutorial-Level_03B71C744F44A9EEB7DB8E99B934A94CED.tmp' to 'F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Content/Maps/Tutorial-Level_03.umap'
+[2020.02.06-00.43.47:475][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-00.43.47:542][646]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-00.43.47:553][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03' with GeneratedClass '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03_C' with ClassGeneratedBy '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03'
+[2020.02.06-00.43.47:600][646]LogFMOD: Creating runtime Studio System
+[2020.02.06-00.43.47:604][646]LogFMOD: Default sample rate = 48000
+[2020.02.06-00.43.47:604][646]LogFMOD: System sample rate = 44100
+[2020.02.06-00.43.47:604][646]LogFMOD: Matching system sample rate 44100
+[2020.02.06-00.43.47:614][646]LogFMOD: Loading Banks
+[2020.02.06-00.43.47:614][646]LogFMOD: Loading bank: F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Content/FMOD/Desktop/Sound Effects.bank
+[2020.02.06-00.43.47:614][646]LogFMOD: Loading bank: F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Content/FMOD/Desktop/UI.bank
+[2020.02.06-00.43.47:660][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-00.43.47:660][646]PIE: New page: PIE session: Tutorial-Level_03 (Feb 5, 2020, 2:43:47 PM)
+[2020.02.06-00.43.47:660][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tutorial-Level_03
+[2020.02.06-00.43.47:682][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022359s)
+[2020.02.06-00.43.47:683][646]LogAIModule: Creating AISystem for world Tutorial-Level_03
+[2020.02.06-00.43.47:683][646]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2020.02.06-00.43.47:683][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tutorial-Level_03.Tutorial-Level_03 to /Game/Maps/UEDPIE_0_Tutorial-Level_03.Tutorial-Level_03 (0.023387s)
+[2020.02.06-00.43.47:706][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.06-00.43.47:754][646]LogInit: XAudio2 using 'Headphones (Ink'd Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-00.43.47:762][646]LogInit: FAudioDevice initialized.
+[2020.02.06-00.43.47:769][646]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.06-00.43.47:777][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial-Level_03.Tutorial-Level_03 up for play (max tick rate 0) at 2020.02.05-19.43.47
+[2020.02.06-00.43.47:778][646]LogWorld: Bringing up level for play took: 0.008941
+[2020.02.06-00.43.47:778][646]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.02.06-00.43.47:782][646]LogBlueprintUserMessages: [MyGameInstance_C_36] FruitApple1
+[2020.02.06-00.43.47:782][646]LogBlueprintUserMessages: [MyGameInstance_C_36] FruitApple_C
+[2020.02.06-00.43.47:782][646]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.02.06-00.43.47:787][646]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tutorial-Level_03 1.153
+[2020.02.06-00.43.47:788][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03' with GeneratedClass '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03_C' with ClassGeneratedBy '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03'
+[2020.02.06-00.45.50:509][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03' with GeneratedClass '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03_C' with ClassGeneratedBy '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03'
+[2020.02.06-00.45.50:610][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-00.45.50:610][721]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial-Level_03
+[2020.02.06-00.45.50:611][721]LogWorld: UWorld::CleanupWorld for Tutorial-Level_03, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-00.45.50:620][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-00.45.50:620][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03' with GeneratedClass '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03_C' with ClassGeneratedBy '/Game/Maps/Tutorial-Level_03.Tutorial-Level_03:PersistentLevel.Tutorial-Level_03'
+[2020.02.06-00.45.50:648][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-00.45.50:653][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.06-00.45.50:668][722]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.02.06-00.45.51:590][829]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2020.02.06-00.45.53:233][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-00.45.56:846][336]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid59)
+[2020.02.06-00.45.57:996][466]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.06-00.45.58:023][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.06-00.45.58:282][466]LogSavePackage: Moving 'F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Saved/Tutorial-Level_03D8D815B940AE6A8A0070BEB8443CD722.tmp' to 'F:/George Brown/game Jams/Farmed & Dangerous/GameJam2/GameJam2/Content/Maps/Tutorial-Level_03.umap'
